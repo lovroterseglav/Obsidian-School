@@ -1,4 +1,4 @@
-**Samostalniki** so besede, ki poimenujejo **bitja, stvari in pojme**, samostalnikom lahko določimo 
+**Samostalniki** so besede, ki poimenujejo **bitja, stvari in pojme**, samostalnikom lahko določimo **spol, število in sklon.** Ko sklanjamo **spremenimo obliko besedila.**
 # Spol
 + **moški** - pilot
 + **ženski** - poveljnica

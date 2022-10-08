@@ -1,0 +1,25 @@
+**Pridevniki** so besede, ki poimenujejo **lastnost, vrsto in svojino.** 
+Pridanemo ga [[Samostalnik]]u, z njim se ujema v **spolu, sklonu in številu** 
+V Slovenščini **lahko stopnjujemo SAMO [[]] pridevnike.**
+
+# Svojilni
++ **čigav?** stričev (film)
++ **čigava?** učiteljičina (miza)
++ **čigavo?** Cankarjevo (delo)
+
+# Vrstni
++ **kateri?** igrani (film)
++ **katera?** mladinska (knjiga)
++ **katero?** literarno (delo)
+
+# Lastnostni
++ **kakšen?** dolg (film)
++ **kakšna?** zabavna (knjiga)
++ **kakšno?** odlično (delo)
+
+## Stopnjevanje LASTNOSTNIH pridevnikov
+|           | obrazilno | opisno      |
+| --------- | --------- | ----------- |
+| **osnovnik**  | mlad      | znan        |
+| **primernik** | mlajši    | bolj zan    |
+| **presežnik** | najmlajši | nabolj znan | 
