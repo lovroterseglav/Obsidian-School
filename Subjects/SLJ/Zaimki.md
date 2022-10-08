@@ -28,3 +28,7 @@ Zamiki, ki se **končujejo** na **R** so **oziralni zaimki**. Z njimi opisno poi
 primer: 
 + namesto **lažnjivec** rečemo **kdor laže**
 + namesto **parkirišče** rečemo **kjer parkiramo**
+
+```ad-note 
+title: Title Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. 
+```

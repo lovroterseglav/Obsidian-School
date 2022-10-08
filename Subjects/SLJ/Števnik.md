@@ -3,7 +3,7 @@
 
 # Glavni števniki (koliko?)
 Do **100** in **stotice** šišemo **skupaj**, **ostale narazen**.
-|      |                      |
+| št.  | beseda               | 
 | ---- | -------------------- |
 | 66   | šestinšestdeset      |
 | 253  | dvesto triinpetdeset |
@@ -11,7 +11,7 @@ Do **100** in **stotice** šišemo **skupaj**, **ostale narazen**.
 
 # Vrstni števniki (jateri/katera/katero?)
 Vedno se pišejo **skupaj** in imajo za seboj **piko**.
-|      |                            |
+| št.  | beseda                     | 
 | ---- | -------------------------- |
 | 1.   | prvi (razred)              |
 | 3.   | tretja (triada)            |
