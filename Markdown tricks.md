@@ -28,8 +28,9 @@ Lists +, -, *
 
 Use two equal signs to ==highlight text==. `==highlight text==`
 
+#tag
 
-Linking: ^2354dc
+Linking:
 
 [[Markdown tricks]]
 [[[Markdown tricks | Alias]] `[[[Markdown tricks | Alias]]` 
