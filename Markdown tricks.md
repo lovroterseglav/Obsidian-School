@@ -25,6 +25,10 @@ Lists +, -, *
 
 ~~strikethrou~~ `~~strikethrou~~`
 
+
+Use two equal signs to ==highlight text==. `==highlight text==`
+
+
 Linking: ^2354dc
 
 [[Markdown tricks]]
@@ -65,3 +69,12 @@ Linking: ^2354dc
 > > [!tldr]
 > > 
 
+
+
+Here is some inline comments: %%You can't see this text%% (Can't see it in Reading mode)
+
+Here is a block comment:
+%%
+It can span
+multiple lines
+%%
