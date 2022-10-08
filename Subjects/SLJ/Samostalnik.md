@@ -1,4 +1,5 @@
 **Samostalniki** so besede, ki poimenujejo **bitja, stvari in pojme**, samostalnikom lahko določimo **spol, število in sklon.** Ko sklanjamo **spremenimo obliko besedila.**
+Samostalnik je #besedna-vrsta
 # Spol
 + **moški** - pilot
 + **ženski** - poveljnica
@@ -16,3 +17,4 @@
 | 4.      | tožilnik    | **KOGA** ali **KAJ** (tožim)      |
 | 5.      | mestnik     | **O KOM** ali **O ČEM** (govorim) |
 | 6.      | orodnik     | **S KOM** ali **S ČIM** (grem)          | 
+

@@ -1,6 +1,7 @@
 **Pridevniki** so besede, ki poimenujejo **lastnost, vrsto in svojino.** 
 Pridanemo ga [[Samostalnik]]u, z njim se ujema v **spolu, sklonu in številu** 
-V Slovenščini **lahko stopnjujemo SAMO [[]] pridevnike.**
+V Slovenščini **lahko stopnjujemo SAMO lastnostne pridevnike.**
+Pridevnik je #besedna-vrsta 
 
 # Svojilni
 + **čigav?** stričev (film)
