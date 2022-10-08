@@ -30,4 +30,38 @@ Linking: ^2354dc
 [[Markdown tricks]]
 [[[Markdown tricks | Alias]] `[[[Markdown tricks | Alias]]` 
 [[[Markdown tricks#Heading 1]] link to headings with # 
-[[Markdown tricks#^2354dc]] 
+[[Markdown tricks#^2354dc]] to parts with ^
+
+> Quotes
+
+> [!info] callouts
+> `> [!info] callouts`
+
+
+> [!note]+
+> `[!note]-` to colapise by deafult `[!note]+` to expand
+
+> [!tip]+
+> Types:
+> - note
+> - tldr (summary, abstract)
+> - info
+> - todo
+> - done (success, check)
+> - faq (help, question)
+> - warning (caution, attention)
+> - fail (failure, missing)
+> - error (danger)
+> - bug
+> - example
+> - quote (cite)
+
+> [!TIP]- Callouts can have custom titles, which also supports ==markdown==!
+> `[!TIP] Callouts can have custom titles, which also supports ==markdown==!`
+
+> [!example]- Callout examples
+> > [!note]
+> > text
+> > [!tldr]
+> > 
+
