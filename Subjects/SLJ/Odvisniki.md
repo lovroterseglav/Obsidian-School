@@ -40,7 +40,7 @@
 > [!note] Vezniki
 > **ker**
 
-# namerni odvisnik
+# Namerni odvisnik
 > [!faq] Vprašalnica
 > **čemu, s katerim namenom** + povedek glavnaga stavka
 
