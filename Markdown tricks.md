@@ -65,8 +65,43 @@ Linking:
 > `[!TIP] Callouts can have custom titles, which also supports ==markdown==!`
 
 ###### Calout Examples
+> [!note]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
 
+> [!tldr]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
 
+> [!info]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
+
+> [!todo]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
+
+> [!done]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
+
+> [!faq]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
+
+> [!warning]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
+
+> [!fail]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
+
+> [!error]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
+
+> [!bug]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
+
+> [!example]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
+
+> [!quote]-
+> Harum laborum eum blanditiis recusandae. Dolor perferendis voluptatibus tempore ipsa velit ut. Iste numquam qui quas. Odio repellendus ut praesentium sint eius in sit occaecati. Qui qui velit hic quis cum omnis minima.
+
+###### Comments
 
 Here is some inline comments: %%You can't see this text%% (Can't see it in Reading mode)
 
