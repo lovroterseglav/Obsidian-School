@@ -1,0 +1,1 @@
+**Medmet je nepregibna **
