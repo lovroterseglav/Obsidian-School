@@ -3,7 +3,7 @@
 **Stavčni členi** so **deli [[Stavek |stavka]]**.
 
 # Povedek
-**[[Glagol]]** v **osebni glagolski obliki** je tisti del stavka, ki nam pove **gkaj kdo dela** ali **kaj se z njim dogaja**
+**[[Glagol]]** v **osebni glagolski obliki** je tisti del stavka, ki nam pove **kaj kdo dela** ali **kaj se z njim dogaja**
 V stavku ga **poiščemo najprej**.
 
 # Osebek
