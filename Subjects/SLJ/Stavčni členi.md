@@ -7,12 +7,25 @@
 V stavku ga **poiščemo najprej**.
 
 # Osebek
-Stavčni člen, ki nam pove **gkdo ali kaj** je **tosto oz. tisto**, ki **nekaj dela** ali **s katerim se nekaj dogaja** je **osebek.**
+Nam pove **kdo ali kaj** je **tisti oz. tisto**, ki **nekaj dela** ali **s katerim se nekaj dogaja**.
 
 # Predmet
-Stavčni člen, ki nam pove:
+Nam pove:
 - **koga ali česa** ne marajo voziti
 - **komu ali čemu** kljubujejo mladički
 - **koga ali kaj** išče skakač ponoči
 - **o kom ali o čem** nam pripoveduje učitelj
-- **s kom ali s čim **
+- **s kom ali s čim** se igra vzgojiteljica
+
+# Prislovno določilo
+Nam pove:
+- **kam** sta šla fanta
+- **kdaj** obrodijo rastline
+- **kako** se premika zrak
+- **zakaj** je izbruhnil upor
+| vprašalnica + povedek | prislovno določilo |
+| --------------------- | ------------------ |
+| **kam**               | **kraja**          |
+| **kdaj**              | **časa**           |
+| **kako**              | **načina**         |
+| **zakaj**             | **vzroka**         |
