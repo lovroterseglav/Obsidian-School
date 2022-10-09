@@ -26,3 +26,6 @@ Glagol je #besedna-vrsta
 + **namenilnik**
 	+ **t**/**č** (*vstat*, *teč*)
 	+ **glagoli premikanja**
+
+# Vid
+#todo
