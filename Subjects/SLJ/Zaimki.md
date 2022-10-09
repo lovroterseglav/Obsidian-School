@@ -1,3 +1,4 @@
+**Zaimki** so #besedna-vrsta 
 # Osebni zaimki
 **[[Samostalnik|Samostalnike]]** lahko **nadomestimo** z **osebnimi zaimki**. Z osebnimi zaimki **izražamo** različne **osebe** in **števila**. Tudi osebne zaimke lahko **sklanjamo**. Če želimo zaimek poudariti uporabimo daljšo obliko.
 

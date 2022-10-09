@@ -1,6 +1,6 @@
 **Prislovi** so besede, ki nam povedo **kraj**, **čas**, **način** in **vzrok dogajanja**. 
 Prislovnom **NE** mormemo določiti **osebe**, **števila**, **spola**, **sklona**, **ker jih ne mormemo spreminjati**.
-
+Prislov je #besedna-vrsta 
 # Krajevni prislovi
 > [!faq] Vprašalnice
 > **kje, kam, od kod, do kod**
