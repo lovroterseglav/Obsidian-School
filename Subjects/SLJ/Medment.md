@@ -23,4 +23,11 @@
 > - Iz grmovja se je zaslišalo čiv čiv čiv. *osebek* (Kdo ali) **kaj se je zaslišalo iz grmovja?**
 > - Se pač zgodi, jah. **/**
 > - Petelin s svojimi kikiriki glasno opozarja nase. *predmet* (S kom ali) **s čim je petelin glasno opozarjal nase?**
-> - 
+
+# Premor
+Če v **govoru NI premora** vejic **NE pišemo.** 
+Če je v **govoru premor napišemo** vejico.
+
+> [!example]+
+> - Iz grmovja se je zaslišalo **čiv čiv čiv**.
+> - Iz grmovja se je zaslišalo **čiv, čiv, čiv**.
