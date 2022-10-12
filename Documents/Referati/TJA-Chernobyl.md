@@ -1,7 +1,6 @@
 # Chernobyl nuclear disaster
 
 ## The accident
-**April 26, 1986:**
 The Chernobyl disaster was a nuclear accident that occurred on 26 April 1986 at the No. 4 reactor in the Chernobyl Nuclear Power Plant, near the city of Pripyat in the north of the Ukrainian SSR in the Soviet Union.
 
 At 01:23:04 a.m. the test began *explain test*, then 36 second later at 01:23:40 the "scram" *explain scram* button was pressed. We only know the final reading. Reactor No. 4 designed to operate at 3200 MW went beyond 33,000 MW we can only estimate to how fair it went. During this time pressure builds in the reactor No. 4. At 01:23:45 the reactor exploded. (Valery Ilyich dies) lifts a 1,000-ton lid and split open the roof.
@@ -15,6 +14,10 @@ At 5 a.m. reactor No. 3 is shut down. Reactors No. 1 and 2 are stopped about a 
 
 ## Days after the accident 
 An alarm goes off at a Swedish nuclear plant after the soles of shoes worn by a nuclear safety engineer there test positive for radioactivity. The radiation is traced to Chernobyl.
+
+36h after the explotion the evacuation of Pripyat was oreder.
+Next day they decided on 10km evacuation redius ten days later on 30k which is still there.
+In total there were 350k ppl evacuated.
 
 The Soviet Union publicly admits for the first time that an accident happened but gives few details.
 
@@ -30,17 +33,17 @@ Wearing protective gear and only being allowed to go on the roof for 90s max.
 Soviets trying to save money (less protection)
 Faital flaw in RBMK reactors known for 3 years but not fixed.
 Night staff.
-Reactor manegment.
+Reactor manegment shifting the test.
 
 ## The aftermath
-There is now a 30km Exclusion Zone around the plant.
-Gorbachev, in a 2006 memoir, says "The Chernobyl meltdown was perhaps the real cause of the collapse of the Soviet Union."
+There is now a 30km Exclusion Zone around the plant. (some ppl still live there)
 
-## Chernobyl today
+Gorbachev, in a 2006 memoir, says "The Chernobyl meltdown was perhaps the real cause of the collapse of the Soviet Union."
 
 ## People
 Valery Legasov - first deputy director of the Kurchatov Institute of Atomic Energy
 Boris Shcherbina - Ukrainian Soviet politician who served as a Deputy Chairman
+Aleksandr Akimov - shift supervisor of the 4th power unit
 
 
 
@@ -48,6 +51,3 @@ Boris Shcherbina - Ukrainian Soviet politician who served as a Deputy Chairman
 There is a diffrence improvising a presetnation at school and improvising controling a nulcear reactor.
 
 A catastrophe is a chain of unfortunate events.
-
-
-# TODO
