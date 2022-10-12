@@ -33,12 +33,16 @@ Night staff.
 Reactor manegment.
 
 ## The aftermath
-There is now a 30km Exclusion Zone 
+There is now a 30km Exclusion Zone around the plant.
 Gorbachev, in a 2006 memoir, says "The Chernobyl meltdown was perhaps the real cause of the collapse of the Soviet Union."
 
 ## Chernobyl today
 
 ## People
+Valery Legasov - first deputy director of the Kurchatov Institute of Atomic Energy
+Boris Shcherbina - Ukrainian Soviet politician who served as a Deputy Chairman
+
+
 
 # Killer lines
 There is a diffrence improvising a presetnation at school and improvising controling a nulcear reactor.
