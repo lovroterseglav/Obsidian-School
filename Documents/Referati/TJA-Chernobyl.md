@@ -23,17 +23,22 @@ Core fire extinguished by helicopters dropping more than 5,000 tons of sand, lea
 The smoldering graphite, fuel and other material above, at more than 1,200 °C ,started to burn through the reactor floor and mixed with molten concrete from the reactor lining, creating corium, a radioactive semi-liquid material comparable to lava. Feared that it could create a bigger explosion when comming in contact with water tanks. 3 ppl send to open the valves (Alexei Ananenko, Valeri Bezpalov, Boris Baranov) recived "Order For Courage" in 2018.
 
 To construct the sarcafogas 100t of debris needed to be removed from the roof 10% were removed by robots the other 90% were removed by so called "bio-robots" aka. soliders.
-
+Wearing protective gear and only being allowed to go on the roof for 90s max.
+(Chernobyl liquidators)
 
 ## Why did it happen and who is responsible?
 Soviets trying to save money (less protection)
 Faital flaw in RBMK reactors known for 3 years but not fixed.
 Night staff.
+Reactor manegment.
 
-## The consequences
+## The aftermath
+There is now a 30km Exclusion Zone 
 Gorbachev, in a 2006 memoir, says "The Chernobyl meltdown was perhaps the real cause of the collapse of the Soviet Union."
 
 ## Chernobyl today
+
+## People
 
 # Killer lines
 There is a diffrence improvising a presetnation at school and improvising controling a nulcear reactor.
