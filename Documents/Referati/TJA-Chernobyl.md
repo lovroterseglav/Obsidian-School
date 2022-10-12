@@ -19,6 +19,7 @@ An alarm goes off at a Swedish nuclear plant after the soles of shoes worn by a 
 Next day they decided on 10km evacuation redius ten days later on 30k which is still there.
 In total there were 350k ppl evacuated.
 
+April 28th
 The Soviet Union publicly admits for the first time that an accident happened but gives few details.
 
 Core fire extinguished by helicopters dropping more than 5,000 tons of sand, lead, clay, and neutron-absorbing boron onto the burning reactor. 600  pilots risked dangerous levels of radiation.
