@@ -4,13 +4,14 @@
 **April 26, 1986:**
 The Chernobyl disaster was a nuclear accident that occurred on 26 April 1986 at the No. 4 reactor in the Chernobyl Nuclear Power Plant, near the city of Pripyat in the north of the Ukrainian SSR in the Soviet Union.
 
-At 01:23:04 a.m. the test began *explain test*, then 36 second later at 01:23:40 the "scram" *explain scram* button was pressed. We only know the final reading. Reactor No. 4 designed to operate at 3200 MW went beyond 33,000 MW we can only estimate to how fair it went. During this time pressure builds in the reactor No. 4. At 01:23:45 the reactor explodes. This causes an explosion that lifts a 1,000-ton lid that covers volatile fuel elements. Radiation is immediately released into the air.
+At 01:23:04 a.m. the test began *explain test*, then 36 second later at 01:23:40 the "scram" *explain scram* button was pressed. We only know the final reading. Reactor No. 4 designed to operate at 3200 MW went beyond 33,000 MW we can only estimate to how fair it went. During this time pressure builds in the reactor No. 4. At 01:23:45 the reactor explodes. This causes an explosion that lifts a 1,000-ton lid that covers volatile fuel elements.
 
-Thirty separate fires develop. An alarm goes off at a local fire station.
+Multiple separate fires develop. An alarm goes off at a local fire station.
+The core would stop burning on May 10th.
 
-At 1.45 a.m. firefighters arrive. They know nothing about radiation and aren’t wearing any protective clothing. Driver Grigory Khmel later recalls: "We saw graphite lying everywhere. I kicked a bit of it. Another fireman picked up a piece and said 'hot.' Neither of us had any idea of radiation. My colleagues Kolya, Pravik and others all went up the ladder of the reactor. I never saw them again."
+At twenty minutes later firefighters arrive. They know nothing about radiation and aren’t wearing any protective clothing. Driver Grigory Khmel later recalls: "We saw graphite lying everywhere. I kicked a bit of it. Another fireman picked up a piece and said 'hot.' Neither of us had any idea of radiation. My colleagues Kolya, Pravik and others all went up the ladder of the reactor. I never saw them again."
 
-At 5 a.m. reactor No. 3 is shut down. Reactors No. 1 and 2 are stopped about 24 hours later.
+At 5 a.m. reactor No. 3 is shut down. Reactors No. 1 and 2 are stopped about a day later.
 
 ## Days after the accident 
 **April 28, 1986:**
