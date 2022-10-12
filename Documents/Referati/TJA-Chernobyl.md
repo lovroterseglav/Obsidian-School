@@ -4,7 +4,8 @@
 **April 26, 1986:**
 The Chernobyl disaster was a nuclear accident that occurred on 26 April 1986 at the No. 4 reactor in the Chernobyl Nuclear Power Plant, near the city of Pripyat in the north of the Ukrainian SSR in the Soviet Union.
 
-At 01:23:04 a.m. the test began, fifty-six seconds later, pressure builds in the reactor No. 4 in the form of steam. This causes an explosion that lifts a 1,000-ton lid that covers volatile fuel elements. Radiation is immediately released into the air.
+At 01:23:04 a.m. the test began, then 36 second later at 01:23:40 the "scram" button was pressed ,
+pressure builds in the reactor No. 4 in the form of steam. This causes an explosion that lifts a 1,000-ton lid that covers volatile fuel elements. Radiation is immediately released into the air.
 
 Thirty separate fires develop. An alarm goes off at a local fire station.
 
@@ -27,3 +28,6 @@ An alarm goes off at a Swedish nuclear plant after the soles of shoes worn by a 
 Gorbachev, in a 2006 memoir, says "Chernobyl was perhaps the real cause of the collapse of the Soviet Union."
 
 ## Chernobyl today
+
+# Killer lines
+There is a diffrence improvising a presetnation at school and improvising controling a nulcear reactor.
