@@ -4,7 +4,7 @@
 **April 26, 1986:**
 The Chernobyl disaster was a nuclear accident that occurred on 26 April 1986 at the No. 4 reactor in the Chernobyl Nuclear Power Plant, near the city of Pripyat in the north of the Ukrainian SSR in the Soviet Union.
 
-At 01:23:04 a.m. the test began *explain test*, then 36 second later at 01:23:40 the "scram" *explain scram* button was pressed. We only know the final reading. Reactor No. 4 designed to operate at 3200 MW went beyond 33,000 MW we can only estimate to how fair it went. During this time pressure builds in the reactor No. 4. At 01:23:45 the reactor exploded. This causes an explosion that lifts a 1,000-ton lid and split open the roof.
+At 01:23:04 a.m. the test began *explain test*, then 36 second later at 01:23:40 the "scram" *explain scram* button was pressed. We only know the final reading. Reactor No. 4 designed to operate at 3200 MW went beyond 33,000 MW we can only estimate to how fair it went. During this time pressure builds in the reactor No. 4. At 01:23:45 the reactor exploded. (Valery Ilyich dies) lifts a 1,000-ton lid and split open the roof.
 
 Multiple separate fires develop. An alarm goes off at a local fire station.
 The core would stop burning on May 10th.
@@ -14,14 +14,19 @@ At twenty minutes later firefighters arrive. They know nothing about radiation a
 At 5 a.m. reactor No. 3 is shut down. Reactors No. 1 and 2 are stopped about a day later.
 
 ## Days after the accident 
-The Soviet Union publicly admits for the first time that an accident happened but gives few details.
-
 An alarm goes off at a Swedish nuclear plant after the soles of shoes worn by a nuclear safety engineer there test positive for radioactivity. The radiation is traced to Chernobyl.
 
-It was thought by some that the core fire was extinguished by a combined effort of helicopters dropping more than 5,000 tonnes (11 million pounds) of sand, lead, clay, and [neutron-absorbing](https://en.wikipedia.org/wiki/Neutron_capture "Neutron capture") [boron](https://en.wikipedia.org/wiki/Boron "Boron") onto the burning reactor. It is now known that virtually none of these materials reached the core.[[50]](https://en.wikipedia.org/wiki/Chernobyl_disaster#cite_note-BBCContaining-51) Historians estimate that about 600 Soviet pilots risked dangerous levels of radiation to fly the thousands of flights needed to cover reactor No. 4 in this attempt to seal off radiation.
+The Soviet Union publicly admits for the first time that an accident happened but gives few details.
+
+Core fire extinguished by helicopters dropping more than 5,000 tons of sand, lead, clay, and neutron-absorbing boron onto the burning reactor. 600  pilots risked dangerous levels of radiation.
+
+The smoldering graphite, fuel and other material above, at more than 1,200 °C ,started to burn through the reactor floor and mixed with molten concrete from the reactor lining, creating corium, a radioactive semi-liquid material comparable to lava. Feared that it could create a bigger explosion when comming in contact with water tanks. 3 ppl send to open the valves ()
 
 
 ## Why did it happen?
+Soviets trying to save money (less protection)
+Faital flaw in RBMK reactors known for 3 years but not fixed.
+Night staff.
 
 ## Who is responsible?
 
