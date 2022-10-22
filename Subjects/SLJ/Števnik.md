@@ -10,7 +10,7 @@ Do **100** in **stotice** šišemo **skupaj**, **ostale narazen**.
 > | 253  | dvesto triinpetdeset |
 > | 2301 | dva tisoč tristo ena |
 
-# Vrstni števniki (jateri/katera/katero?)
+# Vrstni števniki (kateri/katera/katero?)
 Vedno se pišejo **skupaj** in imajo za seboj **piko**.
 > [!example]-
 > | št.  | beseda                     | 
