@@ -59,7 +59,7 @@
 > **kljub čemu** + povedek glavnaga stavka
 
 > [!note] Vezniki
-> **čeprav, kljub temi da, četudi**
+> **čeprav, kljub temu da, četudi**
 
 # Prilastkov odvisnik
 > [!faq] Vprašalnica
