@@ -1,0 +1,1 @@
+Del [[Geosfera|zemeljskega površja]] s skupnimi značilnostmi oz. [[Geografski elementi|geo. elementi]].
