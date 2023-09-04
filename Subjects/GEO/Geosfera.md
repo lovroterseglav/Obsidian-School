@@ -1,0 +1,2 @@
+- heterogena (sestavl)
+- kompleksna
