@@ -34,7 +34,15 @@ A &= \{1, 2, 3\} \\
 A' &= \{4, 5\}
 \end{align*}
 $$
-
+# Moč
+$m(A)$ ali $|A|$ je število [[Element množice|elementov]] v [[Množica|množici]] $A$.
+## Primer
+$$
+\begin{align*}
+A &= \{1, 2, 3, 9, 23\} \\
+|A| &= 5
+\end{align*}
+$$
 # Karatezični produkt
 $$
 A \times B = {(a, b);\ a \in A,\ b \in B}

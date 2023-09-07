@@ -1,0 +1,1 @@
+Reč v množici.

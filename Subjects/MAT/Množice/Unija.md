@@ -1,1 +1,0 @@
-$A \subset B$ če je vsak element iz [[Množica|množice]] 
