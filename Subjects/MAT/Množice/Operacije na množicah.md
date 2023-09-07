@@ -25,13 +25,13 @@ B &= \{3, 4, 5\} \\
 A \cup B &= \{3\}
 \end{align*}
 $$
-# Razlika
-$A - B$ je [[Množica|množica]], ki vsebuje **vse** elemente, ki **so** v množici $A$ in **NISO** v množici $B$.
+# Komplement
+$A'$ je [[Množica|množica]], ki vsebuje **vse** elemente, ki **NISO** v množici $A$.
 $$
 \begin{align*}
+U &= \{1, 2, 3, 4, 5\} \\
 A &= \{1, 2, 3\} \\
-B &= \{3, 4, 5\} \\
-A \cup B &= \{3\}
+A' &= \{4, 5\}
 \end{align*}
 $$
 
@@ -47,3 +47,4 @@ B &= \{a, b\} \\
 A \times B &= \{(1, a), (1, b), (2, a), (2, b), (3, a), (3, b)\}
 \end{align*}
 $$
+
