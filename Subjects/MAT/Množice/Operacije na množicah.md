@@ -36,7 +36,6 @@ A' &= \{4, 5\}
 $$
 # Moč
 $m(A)$ ali $|A|$ je število [[Element množice|elementov]] v [[Množica|množici]] $A$.
-## Primer
 $$
 \begin{align*}
 A &= \{1, 2, 3, 9, 23\} \\
@@ -44,10 +43,10 @@ A &= \{1, 2, 3, 9, 23\} \\
 \end{align*}
 $$
 # Karatezični produkt
+$A \times B$ je množica vseh urejenih parov $(a, b)$, kjer je $a$ element iz $A$ in $b$ element iz $B$.
 $$
-A \times B = {(a, b);\ a \in A,\ b \in B}
+A \times B = \{(a, b);\ a \in A,\ b \in B\}
 $$
-## Primer
 $$
 \begin{align*}
 A &= \{1, 2, 3\} \\

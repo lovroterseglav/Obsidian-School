@@ -1,4 +1,4 @@
-$A \subset B$ [[Množica|množica]] $A$ je podmnožica množice $B$ če je vsak element množice $B$ vsebovan v $A$.
+$A \subset B$ [[Množica|množica]] $A$ je podmnožica množice $B$ če je vsak [[Element množice|element]] množice $B$ vsebovan v $A$.
 ## Primer
 $$
 \begin{align*}

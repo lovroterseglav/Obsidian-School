@@ -1,1 +1,1 @@
-Reč v množici.
+Reč v [[Množica|množici]].
