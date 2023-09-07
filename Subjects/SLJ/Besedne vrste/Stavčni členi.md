@@ -23,6 +23,7 @@ Nam pove:
 - **kdaj** obrodijo rastline
 - **kako** se premika zrak
 - **zakaj** je izbruhnil upor
+
 | vprašalnica + povedek | prislovno določilo |
 | --------------------- | ------------------ |
 | **kam**               | **kraja**          |
