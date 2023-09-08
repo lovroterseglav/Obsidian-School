@@ -1,0 +1,1 @@
+Nam pove kako je je površje izoblikovano . Je  
