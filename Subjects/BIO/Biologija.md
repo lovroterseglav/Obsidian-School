@@ -13,4 +13,4 @@
 - vse naravne orzanizme (**hirarhija**)
 - **molekula** -> **organel** -> **celica** -> **tkivo** -> **organ** -> **organski sistem** -> **organizem** -> **populacija** -> **biozona** -> **ekosistem** -> **biosfera**
 - neživo naravo
-- km
+- **kompleksnost življenja** preučuje predvsem **veliko št. ravni** **organizacije** in **interakcije** med temi **ravnmi**
