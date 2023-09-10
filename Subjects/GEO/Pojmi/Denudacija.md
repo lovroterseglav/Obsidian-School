@@ -1,2 +1,2 @@
-Ploskovno obnašanje.
+**Ploskovno obnašanje**.
 * Plazovi

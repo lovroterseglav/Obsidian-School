@@ -1,6 +1,8 @@
 # Notranje (Endogene)
 - izvor v **notranjosti** zemlje
-- površje **dvigujejo**, ustvarjajo **razgibano** površje, velike **višinske razlike**
+- površje **dvigujejo**
+	- **razgibano** površje
+	- velike **višinske razlike**
 ## Slie 
 - sila vzgona
 ## Procesi

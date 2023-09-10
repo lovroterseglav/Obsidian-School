@@ -14,14 +14,15 @@ Razdeljena na 3 sloje, ki se mde seboj ločijo po:
 # Zemljina skorja
 - **najtanjši** sloj
 - **trdno** agregatno stanje (s)
-## Kontinentalna skorja**
-	- je debela 
-	- višja kot je gora bolj je debela
-	- granitna plast
-		- SIAL (Silicij, Aluminij)
-		- zgornja palst
-	- bazaltna plast
-		- SIMA (Silicij, Magnezij)
+## Kontinentalna skorja
+- je **debela** 
+- **višja** kot je **gora** **bolj** je **debela**
+- **granitna plast**
+	- **SIAL** (Silicij, Aluminij)
+	- zgornja palst
+- **bazaltna plast**
+	- **SIMA** (Silicij, Magnezij)
+	- spodnja plast
 ## Oceanska skorja
-- bazaltna plast
-	- SIMA (Silicij, Magnezij)
+- **bazaltna plast**
+	- **SIMA** (Silicij, Magnezij)
