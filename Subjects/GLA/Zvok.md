@@ -5,3 +5,4 @@
 # Šum
 - zmes mnogo različnih nepovezanih frekvenc
 - nimajo določene tonse višine in jih ne moremo zapeti
+# Zven
