@@ -1,1 +1,1 @@
-![[Subjects/BIO/Untitled Diagram.svg]]
+![[zivi_organizmi.svg]]
