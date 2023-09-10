@@ -14,3 +14,15 @@
 - **molekula** -> **organel** -> **celica** -> **tkivo** -> **organ** -> **organski sistem** -> **organizem** -> **populacija** -> **biozona** -> **ekosistem** -> **biosfera**
 - neživo naravo
 - **kompleksnost življenja** preučuje predvsem **veliko št. ravni** **organizacije** in **interakcije** med temi **ravnmi**
+
+# Delitev
+## Glede na organizme
+- botanika 
+- mikrobiologija (virologija, mikrologija)
+- zoologija
+- antropologija
+### Znotraj teh panog
+- genetika
+- egologija
+- morfologija - zgradbo(citologija, histologija, anatomija)
+- foziologija
