@@ -1,0 +1,1 @@
+#umetnost, katere izrazno sredstvo je [[zvok]].
