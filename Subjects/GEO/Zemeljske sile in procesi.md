@@ -12,4 +12,9 @@
 * površje **uravnavajo** -> **[[Penteplen|penteplen]]** (idealna ravnina)
 ## Sile 
 - gravitacijska sila
-- energija sonca, lune
+- energija Sonca, Lune
+## Procesi
+- [[akumulacija]]
+- [[erozija]]
+- [[preperevanje kamnin|preperevanje]]
+- [[denudacija]]
