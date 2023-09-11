@@ -10,7 +10,7 @@
 - Zlata doba biologije. Zdaradi hitrega razvoja novih tegnologij.
 # Kaj preučuje
 **Vse ŽIVO!**
-- vse naravne orzanizme (**hirarhija**)
+- vse naravne orzanizme (**hiearhija**)
 - **molekula** -> **organel** -> **celica** -> **tkivo** -> **organ** -> **organski sistem** -> **organizem** -> **populacija** -> **biozona** -> **ekosistem** -> **biosfera**
 - neživo naravo
 - **kompleksnost življenja** preučuje predvsem **veliko št. ravni** **organizacije** in **interakcije** med temi **ravnmi**
