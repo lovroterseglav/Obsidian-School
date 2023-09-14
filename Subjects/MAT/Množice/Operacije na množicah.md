@@ -62,6 +62,12 @@ P(A) &= \{\{\}, \{1\}, \{2\}, \{3\}, \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\}
 \end{align*}
 $$
 ## Moč potenčne množice
-$|P(A)|$ moč potenčne množice je **dva na potenco **$2^{|A|}$.
-
-
+Moč potenčne množice je dva na potenco moči množice.
+$$
+|P(A)| = 2^{|A|}
+$$
+$$\begin{align*}
+A &= \{1, 2, 3\} \\
+|P(A)| &= 2^3 = 8
+\end{align*}
+$$
