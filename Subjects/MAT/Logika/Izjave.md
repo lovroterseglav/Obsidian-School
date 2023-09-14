@@ -39,7 +39,7 @@ Resnična, če sta si oba dela izjave enaka (ekvivalentna).
 | R   | N   | N                     |
 | N   | R   | N                     |
 | N   | N   | R                     |
-# Ekskluzivna disjunkcija $\veebar$ ali XOR $\oplus$
+# Ekskluzivna disjunkcija $\veebar$ (ali XOR $\oplus$)
 Resnična, če sta si oba dela izjave različna.
 
 |$A$|$B$|$A \veebar B$|
