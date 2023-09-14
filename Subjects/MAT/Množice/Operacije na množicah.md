@@ -55,5 +55,13 @@ A \times B &= \{(1, a), (1, b), (2, a), (2, b), (3, a), (3, b)\}
 \end{align*}
 $$
 # Potenčna množica
-$P(A)$, je množica, ki vsebije  
+$P(A)$, je [[množica]], ki vsebuje vse [[Podmnožica|podmnožice]] množice $A$.
+$$\begin{align*}
+A &= \{1, 2, 3\} \\
+P(A) &= \{\{\}, \{1\}, \{2\}, \{3\}, \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\}
+\end{align*}
+$$
+## Moč potenčne množice
+$|P(A)|$ moč potenčne množice je **dva na potenco **$2^{|A|}$.
+
 
