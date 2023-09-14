@@ -54,4 +54,6 @@ B &= \{a, b\} \\
 A \times B &= \{(1, a), (1, b), (2, a), (2, b), (3, a), (3, b)\}
 \end{align*}
 $$
+# Potenčna množica
+$P(A)$, je množica, ki vsebije  
 
