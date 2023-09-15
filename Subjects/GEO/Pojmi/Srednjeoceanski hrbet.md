@@ -1,3 +1,3 @@
 - [[litosfreske plošče]] gredo **narazen**
-- nastanejo razpoke skozi katere gre **magma**
+- nastanejo razpoke skozi katere gre **[[magma]]**
 - nastanek **novega kopnega**
