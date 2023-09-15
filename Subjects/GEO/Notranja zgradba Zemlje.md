@@ -1,20 +1,12 @@
-Razdeljena na 3 sloje, ki se mde seboj ločijo po:
+Razdeljena na 3 sloje, ki se med seboj ločijo po:
 - debelini
 - agregatnem stanju
 - kemični sestavi
-# Jedro (NIFE)
-- **središče** notranjosti zemlje
-- NIFE = **Ni** (Nikelj) **Fe** (Železo)
-- **2x gostejši** od **plašča**
-# Plašč
-- **zgornji** del v **trdnem** stanju
-- **spodnji** del v **tekočem** stanju
-# [[Mohoričičeva nezveznost|Moho]]
-- med plaščem in Zemljino skorjo
-# Zemljina skorja
+# Delitev 1
+## Zemljina skorja
 - **najtanjši** sloj
 - **trdno** agregatno stanje (s)
-## Kontinentalna skorja
+### Kontinentalna skorja
 - je **debela** 
 - **višja** kot je **gora** **bolj** je **debela**
 - **granitna plast**
@@ -23,6 +15,27 @@ Razdeljena na 3 sloje, ki se mde seboj ločijo po:
 - **bazaltna plast**
 	- **SIMA** (Silicij, Magnezij)
 	- spodnja plast
-## Oceanska skorja
+### Oceanska skorja
 - **bazaltna plast**
 	- **SIMA** (Silicij, Magnezij)
+## [[Mohoričičeva nezveznost|Moho]]
+- med plaščem in Zemljino skorjo
+## Plašč
+- **zgornji** del v **trdnem** stanju
+- **spodnji** del v **tekočem** stanju
+## Jedro (NIFE)
+- **središče** notranjosti zemlje
+- NIFE = **Ni** (Nikelj) **Fe** (Železo)
+- **2x gostejši** od **plašča**
+# Delitev 2
+## Litosfera
+- [[#Zemljina skorja|zemljina skorja]]+[[#Plašč|zunanji del plašča]]
+- trdno agregatno stanje (**s**)
+- razdrobljena na [[Litosfreska plošča|litosferske plošče]]
+## Astenosfera
+- del [[#Plašč|plašča]]
+- gost
+- tekoče agregatno stanje (**l**)
+- po njem se [[Litosfreska plošča|litosferske plošče]]
+## Plast pod astenosfero
+- [[#Plašč|Spodnji del plašča]]+[[#Jedro (NIFE)|jedro]] 
