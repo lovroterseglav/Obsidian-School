@@ -31,11 +31,11 @@ Razdeljena na 3 sloje, ki se med seboj ločijo po:
 ## Litosfera
 - [[#Zemljina skorja|zemljina skorja]]+[[#Plašč|zunanji del plašča]]
 - trdno agregatno stanje (**s**)
-- razdrobljena na [[Litosfreska plošča|litosferske plošče]]
+- razdrobljena na [[Litosfreske plošče|litosferske plošče]]
 ## Astenosfera
-- del [[#Plašč|plašča]]
+- [[#Plašč|srednji del plašča]]
 - gost
 - tekoče agregatno stanje (**l**)
-- po njem se [[Litosfreska plošča|litosferske plošče]]
+- po njem se [[Litosfreske plošče|litosferske plošče]]
 ## Plast pod astenosfero
 - [[#Plašč|Spodnji del plašča]]+[[#Jedro (NIFE)|jedro]] 
