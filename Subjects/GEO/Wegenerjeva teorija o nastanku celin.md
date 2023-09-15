@@ -2,4 +2,5 @@
 - vse celine združene v megacelino **PANGEO**
 	- ta razpate na **LAVRAZIJO** ([[Severna Amerika]], [[Evropa]]) in **GONDVANO** ([[Južna Amerika]], [[Afrika]], [[Indija]], [[Avstralija]], [[Antarktika]])
 	- med tema pa je bilo morje **TETIS**
-- dokazi za to so **fos**
+- **dokazi** za to so **fosili** in **oblike obale**
+- v [[Kenozoik|kenozoiku]] celine dobijo sedanjo obliko

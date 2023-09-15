@@ -1,0 +1,1 @@
+Površje se pogreza **v zemljino notranjost**, kjer se spremeni v nastane [[magma|magmo]].

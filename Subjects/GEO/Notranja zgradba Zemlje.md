@@ -38,4 +38,4 @@ Razdeljena na 3 sloje, ki se med seboj ločijo po:
 - tekoče agregatno stanje (**l**)
 - po njem se [[Litosfreske plošče|litosferske plošče]]
 ## Plast pod astenosfero
-- [[#Plašč|Spodnji del plašča]]+[[#Jedro (NIFE)|jedro]] 
+- [[#Plašč|spodnji del plašča]]+[[#Jedro (NIFE)|jedro]] 
