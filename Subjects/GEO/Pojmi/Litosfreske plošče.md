@@ -14,6 +14,10 @@ Vpliv na premikanje: **debelina**, **gostota**.
 - [[#Delitev#Oceanske|oceanske plošče]] (na dnu oceana)
 	- nastane [[srednjeoceanski hrbet]]
 - [[#Delitev#Kontinentalne|kontinentalne plošče]] (na kopnem)
-	- [[Tektonski jarek]] (prekrije ga voda -> nastane ocean, jezero)
+	- [[tektonski jarek]] (prekrije ga voda -> nastane ocean, jezero)
 ## Približevanje
+[[#Kontinentalne|kontinentalna plošča]] + [[#Oceanske|oceanska plošča]] -> [[subdukcija|subdukcija (podrivanje)]] 
+- robovi oceanov -> [[globokomorski jarek]] 
+- [[#Oceanske|oceanska plošča]] (tanjša, gostejša) drsi pod [[#Kontinentalne|kontinentalno ploščo]]
+
 ## Drsenje
