@@ -8,7 +8,7 @@ snovi opredeljuje v 3 skupine nevarnih lastnosti
 
 1. Nevarne lastnosti snovi (5)
 2. Zdravju nevarne lastnosti (4)
-3. Okolju nevarne lastnosti
+3. Okolju nevarne lastnosti (1)
 
 ## Stavki
 H - Hazard statements (stavki za nevarnost)
