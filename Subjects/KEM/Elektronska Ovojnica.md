@@ -3,4 +3,5 @@
 **(ATOMSKA) ORBITALA** - postor, kjer je **95%** verjentostost, da se tam **nahaja e⁻**
 # Orbitale
 
-![[Subjects/KEM/Untitled Diagram.svg]]
+![[orbitale.svg]]
+P se lahko rotira v vse dimenzije ($P_x$,$P_y$,$P_z$)
