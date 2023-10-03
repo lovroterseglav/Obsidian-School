@@ -12,3 +12,13 @@ Ločijo **zmes** na **čiste snovi** ali **druge zmesi**.
 - z magnetom
 - z roko
 - s sitom
+## Filtracija
+## Centrifugiranje
+## Izparevanje
+## Lij ločnik
+Ločevanje zmesi tekočin, ke se med seboj **NE mešajo**.
+## Destilacija
+**Segrevamo od vspodaja**, na **vrhu destilacijski hladilnik**.
+Ločitev snovi glede na **vrelišče tekočine**.
+## Sublimiranje
+- jod
