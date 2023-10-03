@@ -5,4 +5,5 @@ Osnove [[Toksikologija|toksikologije]].
 3. iniciranje - **intraverozno** (inekcija)
 4. skozi kožo - **dermalno**
 # Toksičnost snovi
-- **AKUTNA** tkosičnost $\rightarrow$ [[LD50]]
+- **AKUTNA** tkosičnost (takojšnja) $\rightarrow$ [[LD50]]
+- **KRONIČNA** toksičnost (na daljši rok)
