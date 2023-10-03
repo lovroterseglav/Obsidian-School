@@ -14,4 +14,5 @@ snovi opredeljuje v 3 skupine nevarnih lastnosti
 H - Hazard statements (stavki za nevarnost)
 P - Precautionary statements (stavki za previdnost)
 > [!example]-
-> H220 - zel
+> H220 - zelo lahko vnetljiv plin
+> P102 - hraniti izven dosega otrok

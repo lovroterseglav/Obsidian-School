@@ -1,0 +1,1 @@
+Veda o **strupenih snoveh** in o njihovem **učinkovanju**.
