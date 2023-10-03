@@ -13,4 +13,12 @@ e⁻  = elektron (1836x manjši)
 p⁺ = proton
 n° = nevtron
 
-premer j. : premer 
+$premer\ j.\ :\ premer\ o. = 1 : 100,000$
+
+# Vrstno in masno št.
+![[vrstno_masno_st.svg]]
+# Izotopi
+Atomi **istega el.**, ki imajo **različno št. n°** (masno št.) 
+Velika količina el. nastopa v naravi v dveh ali več izotopih. (O = 3, Fe = 4)
+
+Imajo **enake KEMIJSKE** lastnosti ampak **različne FIZIKALNE ** 
