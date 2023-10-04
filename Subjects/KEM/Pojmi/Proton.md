@@ -1,0 +1,1 @@
+Delec z pozitivnim nabojem. (p⁺)

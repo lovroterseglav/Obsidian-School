@@ -1,0 +1,1 @@
+Delec z negativnim nabojem. (**e⁻**)
