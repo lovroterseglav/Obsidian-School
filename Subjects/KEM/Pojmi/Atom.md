@@ -1,3 +1,4 @@
+[[Kemija]]
 # Jedro
 # Elektronska ovojnica
 **[[Elektron|e⁻]]** se gibljejo v **el. ovojnici** z **veliko hitrostjo**. **Ne moremo natančno določiti** njihovega **položaja** v **el. ovojnici**. Lahko pa določimo verjetnost, nahajanja [[Elektron|e⁻]] v določenem prostoru okoli [[jedra]].
