@@ -12,14 +12,7 @@ p⁺ = proton
 n° = nevtron
 
 $premer\ j.\ :\ premer\ o. = 1 : 100,000$
-# Jedro
-Vsebuje protone in nevtrone
-# Elektronska ovojnica
-**[[Elektron|Elektroni]]** se gibljejo v **el. ovojnici** z **veliko hitrostjo**. **Ne moremo natančno določiti** njihovega **položaja** v **el. ovojnici**. Lahko pa določimo verjetnost, nahajanja [[Elektron|e⁻]] v določenem prostoru okoli [[jedra]].
 
-**(ATOMSKA) ORBITALA** - postor, kjer je **95%** verjentostost, da se tam **nahaja e⁻**
-## Orbitale
-
-![[orbitale.svg]]
-P se rotira v 3 dimenzije ($P_x$,$P_y$,$P_z$)
-
+sestavljeno iz:
+- Jedro - Vsebuje protone in nevtrone
+- [[Elektronska ovojnica]]
