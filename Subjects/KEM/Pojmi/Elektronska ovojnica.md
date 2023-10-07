@@ -6,3 +6,4 @@
 ![[orbitale.svg]]
 P ima 3 dimenzije ($P_x$,$P_y$,$P_z$)
 ![[Elektronska konfiguracija]]
+![[Princip izgradnje]]
