@@ -1,4 +1,4 @@
-- Je #veda(zaokroženo podrčje) in #znanost (načrtno odkrivanje novih spoznanj).
+- Je [[veda]] (zaokroženo podrčje) in znanost (načrtno odkrivanje novih spoznanj).
 - [[Veda#Aplikativna veda|Aplikativna]] in [[Veda#Bazična veda|bazična]] veda.
 - Raziskovanje s pomočjo [[Znanstvena Medtoda|znanstvene metode]].
 - Dopolnjuje se z drugimi vedami:

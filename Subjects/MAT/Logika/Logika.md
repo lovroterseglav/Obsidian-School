@@ -1,1 +1,1 @@
-je #veda, ki se ukvarja z izjavami.
+je [[veda]], ki se ukvarja z izjavami.

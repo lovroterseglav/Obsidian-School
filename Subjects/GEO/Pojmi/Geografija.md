@@ -1,4 +1,4 @@
-Je #veda ki preučuje [[Geosfera|zemeljsko površje/goeosfero]], [[Pokrajina ali Regija|pokrajino/regijo]], kako se [[Geografski elementi|geografski elementi]] med sabo prepletajo. Rezultat je izgled [[Pokrajina ali Regija|pokrajine]], [[Geosfera|površja/geosfere]].
+Je [[veda]] ki preučuje [[Geosfera|zemeljsko površje/goeosfero]], [[Pokrajina ali Regija|pokrajino/regijo]], kako se [[Geografski elementi|geografski elementi]] med sabo prepletajo. Rezultat je izgled [[Pokrajina ali Regija|pokrajine]], [[Geosfera|površja/geosfere]].
 
 # Delitev [[Geografija|geografije]]
 ## Regionalna

@@ -1,1 +1,1 @@
-Je #veda, ki preučuje preteklost človeka.
+Je [[veda]], ki preučuje preteklost človeka.
