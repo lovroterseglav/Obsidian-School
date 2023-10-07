@@ -1,0 +1,1 @@
+![[vrstno_masno_st.svg]]
