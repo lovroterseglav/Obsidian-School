@@ -13,3 +13,4 @@
 - [[Vroča točka]]
 - [[Litosfreske plošče#Premikanje]]
 - [[Orogeneza]]
+- [[Nastanek gorstev]]
