@@ -1,0 +1,2 @@
+- najbolj intenzivni tam, kjer se [[litosfreske plošče]] izpodrivata ali _____.
+- Če se raz

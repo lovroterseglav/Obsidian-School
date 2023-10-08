@@ -18,6 +18,7 @@
 - [[Tektonsko aktivna območja]]
 - [[Tektonsko neaktivna območja]]
 - [[Afrika]]
+# Vulkanizem
 - [[Vulkanizem]]
 - [[Najhujši izbruh vulkana]]
-- 
+# Potresi
