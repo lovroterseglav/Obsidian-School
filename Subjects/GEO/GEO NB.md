@@ -19,4 +19,5 @@
 - [[Tektonsko neaktivna območja]]
 - [[Afrika]]
 - [[Vulkanizem]]
+- [[Najhujši izbruh vulkana]]
 - 
