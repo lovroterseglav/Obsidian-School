@@ -26,4 +26,6 @@ primer: granit (Pohorje), [[tuf]] (**Goričko** $\rightarrow$ Grad, **Smrekovec*
 - kamnina se **pogrezne** v **notranjost** Zemlje $\rightarrow$ se **stali** $\rightarrow$ [[Zemeljske sile in procesi#Notranje (Endogene)|notranje sile]], jo **dvignejo na površje**
 ## Sedimentne
 - [[Sedimentiranje]]
-- 
+### NEsprijete
+![[sedimanti-nastanek-slika.svg]]
+### Sprijete
