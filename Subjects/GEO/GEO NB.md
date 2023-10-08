@@ -27,3 +27,6 @@
 - [[Hipocenter]]
 - [[Epicenter]]
 - [[Sezmograf]]
+- [[Rihtarjeva lestvica]]
+- [[Evropska makrosezmična lestvica]]
+# Geološki razvoj zemlje

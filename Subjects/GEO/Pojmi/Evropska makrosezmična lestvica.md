@@ -1,1 +1,1 @@
-meri 
+Meri intenziteto potresa (meri gospodarsko škodo). 
