@@ -1,0 +1,1 @@
+Uravnani deli celin, kjer na površju najdemi [[ka]]
