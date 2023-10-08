@@ -6,6 +6,7 @@ Pod kontinenti in bližnjim morjem
 # Stik/Šiv
 - meja med [[Litosfreske plošče|litosferskimi ploščami]]
 - na dnu oceana
+## Teorija o tektoniki plošč
 - [[srednjeoceanski hrbet]] - na sredini oceanov
 - [[globokomorski jarek]] - na robovih oceanov
 # Premikanje 

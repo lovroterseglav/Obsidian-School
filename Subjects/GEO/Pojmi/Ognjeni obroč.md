@@ -1,0 +1,2 @@
+Območje najpogostejše [[subdukcija|subdukcije]] in [[vulkanizem|vulkanizma]]. Zavzema območje Andov, S. Amreiških Koldiljer, Kamčatke, Japonsko, Filipinsko, Indonezijsko otočje ter Novo Zelandijo. 
+![[ognjeni_obroc.png]]

@@ -1,0 +1,1 @@
+2 [[Litosfreske plošče#Oceanske|oceanski plošči]] se izpodrivata, **tanjša gre POD debelejšo**. Tu 
