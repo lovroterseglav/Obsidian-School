@@ -1,1 +1,4 @@
-![[Subjects/GEO/Pojmi/Untitled Diagram.svg]]
+2 dela
+- **antiklinala** 
+- **sinklinala**
+![[gubnaje.svg]]

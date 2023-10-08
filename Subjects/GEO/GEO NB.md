@@ -12,4 +12,4 @@
 - [[Ognjeni obroč]]
 - [[Vroča točka]]
 - [[Litosfreske plošče#Premikanje]]
-- 
+- [[Orogeneza]]
