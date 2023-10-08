@@ -1,0 +1,1 @@
+Usednaje [[Kamnine#Sedimentne]].

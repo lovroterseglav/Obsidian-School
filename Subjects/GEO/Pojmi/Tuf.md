@@ -1,0 +1,1 @@
+[[Vulkan|Vulkanski]] pepel.

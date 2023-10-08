@@ -13,8 +13,17 @@ Vsaka manina iz **mineralov**.
 - nastanek **kisle prsti**
 ## Karbonatne
 - **kalcit $CaCO_3$**
-- 
+- **vodo prepustne**
+- glavni proces [[korozija]]
+- apnenec (več karbonatov $\rightarrow$ **bolj vodo prepusten**)
+- dolomit (manj karbonatov $\rightarrow$ **manj vodo prepusten**, Mg karbonat, **bolj krušljiv**)
 # Delitev glede na na nastanek 
 ## Magmatske
+- **golobočine** - strjena [[magma]]
+- **predornine** - strnjena [[lava]]
+primer: granit (Pohorje), [[tuf]] (**Goričko** $\rightarrow$ Grad, **Smrekovec** (Koroška)), (**Peračica** $\rightarrow$ zelene barve, na Gorenjskem uporabljen kot orkrasni kamen (oboki za vrata))
 ## Metamorfne
+- kamnina se **pogrezne** v **notranjost** Zemlje $\rightarrow$ se **stali** $\rightarrow$ [[Zemeljske sile in procesi#Notranje (Endogene)|notranje sile]], jo **dvignejo na površje**
 ## Sedimentne
+- [[Sedimentiranje]]
+- 
