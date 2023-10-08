@@ -1,0 +1,1 @@
+[[Elektron|Elektroni]] zasedejo energijsko enakovredne [[Elektronska ovojnica#Orbitale|orbitale]] posamično.  

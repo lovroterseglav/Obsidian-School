@@ -1,3 +1,4 @@
-**Pove kako orbitale po e⁻ lupini.**
-**e⁻** najprej zasedejo orbitale z **najmanjšo energijo**
-![[Subjects/KEM/Zakoni/Untitled Diagram.svg]]
+**Pove kako orbitale razdelimo po [[Elektronska ovojnica|e⁻ lupini]].**
+- [[Elektron|e⁻]] najprej zasedejo orbitale z **najmanjšo energijo**
+- **1. lupina** je **najbližje jedru**
+![[razporedtiev_el_konfiguracij.svg]]

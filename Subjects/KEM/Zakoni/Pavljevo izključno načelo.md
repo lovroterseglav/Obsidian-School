@@ -1,0 +1,1 @@
+V vsaki [[Elektronska ovojnica#Orbitale|orbitali]] sta lahko največ dva [[Elektron|elektrona]] in imata **nasprotna spina**.
