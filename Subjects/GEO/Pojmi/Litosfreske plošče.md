@@ -21,8 +21,7 @@ Vpliv na premikanje: **debelina**, **gostota**.
 - robovi oceanov -> [[globokomorski jarek]] 
 - [[#Oceanske|oceanska plošča]] (tanjša, gostejša) drsi pod [[#Kontinentalne|kontinentalno ploščo]]
 ## Drsenje
-- druga ob drugi
-- **prelonm**
+- **[[prelom]]**
 - na vsaki strani plošča, **gibljjeta** se v **isto smer**
 - **manjša** plošča **hitrejša** (izgleda, kot da se premikata nasprotno)
 - ko se **dotakneta** pride do **trenja**

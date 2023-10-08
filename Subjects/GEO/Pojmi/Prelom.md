@@ -1,0 +1,1 @@
+Nastane ob [[Litosfreske plošče#Drsenje|drsenju dveh litosferskih plošč]].

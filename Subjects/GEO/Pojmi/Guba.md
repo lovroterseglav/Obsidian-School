@@ -1,0 +1,1 @@
+![[Subjects/GEO/Pojmi/Untitled Diagram.svg]]

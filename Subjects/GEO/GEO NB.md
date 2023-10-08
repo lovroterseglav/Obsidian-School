@@ -10,5 +10,6 @@
 - [[Wegenerjeva teorija o nastanku celin]]
 - [[Litosfreske plošče#Teorija o tektoniki plošč]]
 - [[Ognjeni obroč]]
-- [[Litosfreske plošče#Premikanje]]
 - [[Vroča točka]]
+- [[Litosfreske plošče#Premikanje]]
+- 
