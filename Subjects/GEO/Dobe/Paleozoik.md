@@ -1,1 +1,5 @@
-Geo obdobje.
+- 6 obdobji
+- življenje v **morju** in na **kopnem**
+- megakontinent [[Pangea]]
+- 2 [[Orogeneza|orogenezi]] [[Nastanek gorstev#Kaledonska in Hercidska]]
+- vsa gorstva **bogata z rudami**

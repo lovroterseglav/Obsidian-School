@@ -1,5 +1,6 @@
 Gorstva so nastala v **3 [[Orogeneza|orogrnezah]]**:
 # Kaledonska in Hercidska
+- kaledonska so starejša
 - [[Paleozoik]]
 - [[Gorovje#Mladonagubano|mladonagubana gorovja]] se razlamljajo danes [[Gorovje#Grudasto|grudasta]], bogata z rudami
 # Alpidska

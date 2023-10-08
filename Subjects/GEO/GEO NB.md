@@ -30,3 +30,5 @@
 - [[Rihtarjeva lestvica]]
 - [[Evropska makrosezmična lestvica]]
 # Geološki razvoj zemlje
+[[Geološki razvoj Zemlje]]
+# Kamnine
