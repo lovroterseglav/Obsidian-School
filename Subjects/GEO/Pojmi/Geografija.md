@@ -12,7 +12,7 @@ Je [[veda]] ki preučuje [[Geosfera|zemeljsko površje/goeosfero]], [[Pokrajina 
 Preučuje [[Geografski elementi#Naravno geografski|naravno geografske elemente]].
 
 - **matematična geografija** (obravnana Zemljo kot nebesno telo)
-- **geomorfologija** (relief)
+- **geomorfologija** ([[relief]])
 - **pedo geografijo** (prst)
 - **klimato geografija** (podnebje)
 - **bio geografija** 

@@ -3,7 +3,7 @@
 - Raziskovanje s pomočjo [[Znanstvena Medtoda|znanstvene metode]].
 - Dopolnjuje se z drugimi vedami:
 	- kmetijstvo
-	- geografija
+	- [[geografija]]
 	- kemija
 	- medicina
 	- farmacija
