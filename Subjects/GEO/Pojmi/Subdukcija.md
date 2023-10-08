@@ -1,1 +1,1 @@
-2 [[Litosfreske plošče#Oceanske|oceanski plošči]] se izpodrivata, **tanjša gre POD debelejšo**. Tu 
+2 [[Litosfreske plošče#Oceanske|oceanski plošči]] se izpodrivata, **tanjša gre POD debelejšo**. Tu prihaja do [[vulkanizem|vulkanizma]].

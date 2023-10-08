@@ -20,7 +20,11 @@ Vpliv na premikanje: **debelina**, **gostota**.
 [[#Kontinentalne|kontinentalna plošča]] + [[#Oceanske|oceanska plošča]] -> [[subdukcija|subdukcija (podrivanje)]] 
 - robovi oceanov -> [[globokomorski jarek]] 
 - [[#Oceanske|oceanska plošča]] (tanjša, gostejša) drsi pod [[#Kontinentalne|kontinentalno ploščo]]
-
 ## Drsenje
-Na **prelomih**.
-
+- druga ob drugi
+- **prelonm**
+- na vsaki strani plošča, **gibljjeta** se v **isto smer**
+- **manjša** plošča **hitrejša** (izgleda, kot da se premikata nasprotno)
+- ko se **dotakneta** pride do **trenja**
+	- **premikom v notranjosti** sledi **[[potres]]**
+- pogostno na **dnu morja** (na kopnem: Sv. Andrej LA-SF)
