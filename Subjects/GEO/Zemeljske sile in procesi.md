@@ -11,7 +11,7 @@
 - gubanje
 # Zunanje (Eksogene)
 - izvor v **notranjosti** zemlje
-* površje **uravnavajo** -> **[[Peneplen|penteplen]]** (idealna ravnina)
+* površje **uravnavajo** -> **[[Peneplen|peneplen]]** (idealna ravnina)
 ## Sile 
 - gravitacijska sila
 - energija Sonca, Lune

@@ -1,2 +1,2 @@
 **Ploskovno odnašanje**.
-* Plazovi
+- Plazovi
