@@ -1,0 +1,2 @@
+- **Najstarejša celina**.
+- **rundo bogastvo (Kobalt)**

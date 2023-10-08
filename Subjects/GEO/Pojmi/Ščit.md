@@ -1,4 +1,5 @@
-Uravnani deli celin, kjer na **površju** najdemi **[[Kamnine#Magmatske]]** in **[[Kamnine#Metamorfne]]**.
-Iz **najstarejših obdobji** Zemlje.
-Dvignjen
+Uravnani deli celin, kjer na **površju** najdemi **[[Kamnine#Magmatske]]**, **[[Kamnine#Metamorfne]]**, stare predkambrijske.
+- Iz **najstarejših obdobji** Zemlje.
+- vir **rudnega** in **energetskega** **bogastva**
+- konveksen (izbočen)
 ![[scit.svg]]

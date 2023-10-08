@@ -17,4 +17,6 @@
 - [[Primerjava mladonagubanih in grudastih gorovji]]
 - [[Tektonsko aktivna območja]]
 - [[Tektonsko neaktivna območja]]
+- [[Afrika]]
+- [[Vulkanizem]]
 - 
