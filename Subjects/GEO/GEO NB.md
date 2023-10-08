@@ -14,3 +14,5 @@
 - [[Litosfreske plošče#Premikanje]]
 - [[Orogeneza]]
 - [[Nastanek gorstev]]
+- [[Primerjava mladonagubanih in grudastih gorovji]]
+- 
