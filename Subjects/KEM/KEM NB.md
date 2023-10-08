@@ -5,3 +5,5 @@
 - [[Varnost v laboratoriju]] 
 - [[Osnove Toksikologije]]
 - [[Delci Snovi]]
+- [[Elektronska konfiguracija#Zapis]]
+- 

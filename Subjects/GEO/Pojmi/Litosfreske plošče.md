@@ -21,3 +21,4 @@ Vpliv na premikanje: **debelina**, **gostota**.
 - [[#Oceanske|oceanska plošča]] (tanjša, gostejša) drsi pod [[#Kontinentalne|kontinentalno ploščo]]
 
 ## Drsenje
+- na pre

@@ -1,0 +1,11 @@
+- [[Geografija]]
+- [[Geosfera]]
+- [[Pokrajina ali Regija]]
+- [[Geografski elementi]]
+- [[Geografija#Delitev]]
+# Zgradba zemlje in njeno površje
+- [[Relief]]
+- [[Notranja zgradba Zemlje]]
+- [[Litosfreske plošče]]
+- [[Wegenerjeva teorija o nastanku celin]]
+- [[tekto]]
