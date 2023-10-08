@@ -1,0 +1,1 @@
+Naprava, ki meri in zapisuje tresljaje tal

@@ -22,3 +22,8 @@
 - [[Vulkanizem]]
 - [[Najhujši izbruh vulkana]]
 # Potresi
+- [[Sezmiologija]]
+- [[Potresi]]
+- [[Hipocenter]]
+- [[Epicenter]]
+- [[Sezmograf]]

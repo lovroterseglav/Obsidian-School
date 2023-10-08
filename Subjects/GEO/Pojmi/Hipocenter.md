@@ -1,0 +1,1 @@
+Žarišče [[Potresi|potresa]] pod zemeljskim površjem.
