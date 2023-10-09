@@ -39,4 +39,7 @@ kamenčki padjo iz razpoke v gori $\rightarrow$ nastane melišče (ostri robovi 
 - [[fliš]]
 Nastele z [[Sedimentiranje|sedimentacijo]].
 
-
+### Kemične in Biokemične
+Nastanejo s **kemičnim usedanjem** in z usedanjem **mrtvih živali** v **morju**.
+- [[apnenec]]
+- [[dolomit]]
