@@ -1,0 +1,1 @@
+Menjavanje plasti [[peščenjak|peščenjaka]] in [[Lapor|laporja]]
