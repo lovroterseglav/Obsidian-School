@@ -27,7 +27,7 @@
 ## Women
 - **tough**, **spirited** and **cheerfull**
 - **spinning** and **weaving** clothes
-- **wear colorfully embroded black shirts** and **skirts**
+- **wear colorfully embroidered black shirts** and **skirts**
 	- very distinctive **headdresses**
 ## Children
 - don't attend school
@@ -46,4 +46,4 @@
 | stilts         | koli             |
 | headdresses    | naglavno okrasje |
 | craftsmen      | obrtniki         |
-| embroded       |                  |
+| embroidered    | vvezani dodatki  | 
