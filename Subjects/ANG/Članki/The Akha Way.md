@@ -7,7 +7,15 @@
 - follow a set of rules
 - **no written language** $\rightarrow$ **rich oral tradition**
 # Villages
-
+- all **similar**
+- **banboo houses**
+- **thatched roofs** (slama)
+- **on stilts** to stay leveled
+- doors at enterance and exit (**spirit gates**)
+	- **painted** with **evil & smiling faces** (inviting good spirits, keeping out bad ones)
+- **each summer** a large **swing** is constructed
+	- young children play
+	- part of **honoring dead ancestrors**
 # People
 - **farm land** to survive
 - one of the worlds **poorest people**
@@ -31,3 +39,11 @@
 	- turist introducing Western culture
 - women only **wear** **traditional** clothing for **turists**
 - some **leaving villages**  $\rightarrow$ **big cities**
+
+| words          | translation      |
+| -------------- | ---------------- |
+| thatched roofs | slamnate strehe  |
+| stilts         | koli             |
+| headdresses    | naglavno okrasje |
+| craftsmen      | obrtniki         |
+| embroded       |                  |
