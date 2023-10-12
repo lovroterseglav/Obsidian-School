@@ -5,6 +5,9 @@
 - **now** live in **small traditional villages** in **SE Asia** (maountanus parts of China, Laos, Burma, Vietnam, N Thiland)
 - **week = 12 days**
 - follow a set of rules
+- **no written language** $\rightarrow$ **rich oral tradition**
+# Villages
+
 # People
 - **farm land** to survive
 - one of the worlds **poorest people**
@@ -20,7 +23,11 @@
 	- very distinctive **headdresses**
 ## Children
 - don't attend school
-- know the names of 
-
+- know the **names** of **all** **animals** and **plants** in the **forest** 
+- have to memorise **names of ancestors** as far back as **60 generations**
 # Akha Way
 - **each person knows their role in society**
+- slowly **dissapearing**
+	- turist introducing Western culture
+- women only **wear** **traditional** clothing for **turists**
+- some **leaving villages**  $\rightarrow$ **big cities**
