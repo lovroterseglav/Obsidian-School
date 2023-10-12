@@ -1,0 +1,8 @@
+- **hundreds** or **thousands** years old tribe
+- **originally** form **Tibet**
+	- keept charecaristics from that region (short, dark complection)
+- **now** live in **small traditional villages** in **SE Asia** (maountanus parts of China, Laos, Burma, Vietnam, N Thiland)
+- **farm land** to survive
+- one of the worlds **poorest people**
+- **men** - **brave** and **strong**
+- **women** - **tough**, **spirited** and cheer
