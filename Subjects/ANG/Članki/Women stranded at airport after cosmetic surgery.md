@@ -6,7 +6,10 @@
 - **unclear** if women will be able to **return**
 
 - **South Korea = cosmetic surgery capital** of the world
-	- a **lot of people** form **China** come here
+- a **lot of people** form **China** come here
 	- more than **500 000/year**
-	- 
-	- 
+	- **many** of them **want** to **look** more **"Western"**
+- **1/2 South Korean women under 30** had cosmetic surgery (in the capital Seul)
+	- **parents encurage** children 
+	- to get **competitive edge** in job market
+	- popular **TV show** that shows **befor/after**
