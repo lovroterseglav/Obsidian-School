@@ -1,0 +1,12 @@
+- **3 Chinese** women
+- **South Korean** airport
+- **passport control** officials could **not confirm their identity**
+- **faces** were **swolen** and **heavily bandaged**
+- **held for questioning** by South Korean  **authorities**
+- **unclear** if women will be able to **return**
+
+- **South Korea = cosmetic surgery capital** of the world
+	- a **lot of people** form **China** come here
+	- more than **500 000/year**
+	- 
+	- 
