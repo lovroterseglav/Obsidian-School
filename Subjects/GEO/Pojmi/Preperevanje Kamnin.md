@@ -9,4 +9,12 @@ Spremeni se **oblika**, **NE mineralna sestava**
 # Kemično
 Spremeni se **mineralna sestava**. 
 - Zanjo je **potrebno veliko vode**. $\rightarrow$ najmočnejša v [[ekvatorjalno podnebje|ekvatorjalnem podnebju]]
-- pri nas na [[Priveterna stran Alp|priveterni strani alp]]
+	- pri nas na [[Priveterna stran Alp|priveterni strani alp]]
+- **[[Korozija]]**
+- **[[Kisel dež]]**
+# Biološko
+Povzročijo **živi organizmi**.
+## Kemično 
+Oddajajo **kisline**, druge snovi, ki pospešijo razgradnjo kaminin.
+## Mehansko
+V razpokah **korenine lomijo kamnine**.
