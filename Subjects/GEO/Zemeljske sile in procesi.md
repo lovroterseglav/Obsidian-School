@@ -14,7 +14,7 @@
 * površje **uravnavajo** -> **[[Peneplen|peneplen]]** (idealna ravnina)
 ## Sile 
 - gravitacijska sila
-- privlačna sila Sonca, Lune
+-                                                                                                                                                                                                                                                                                                 j8 sila Sonca, Lune
 - delovanje Sonca (sevanje)
 ## Procesi
 - [[akumulacija]]
