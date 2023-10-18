@@ -5,7 +5,7 @@
 - [[Gospodarstvo]]
 - [[Poselitev]]
 # Delitev glede na zgradbo
-Vsaka manina iz **mineralov**.
+Vsaka kamnina je iz **mineralov**.
 ## Silikatne
 - **kremen $SiO_2$**
 - **niso vodo prepustne**
