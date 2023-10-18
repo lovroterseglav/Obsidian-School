@@ -1,1 +1,1 @@
-Usednaje [[Kamnine#Sedimentne]].
+Usednaje [[sedimenti|sedimentov]].
