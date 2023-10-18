@@ -14,7 +14,8 @@
 * površje **uravnavajo** -> **[[Peneplen|peneplen]]** (idealna ravnina)
 ## Sile 
 - gravitacijska sila
-- energija Sonca, Lune
+- privlačna sila Sonca, Lune
+- delovanje Sonca (sevanje)
 ## Procesi
 - [[akumulacija]]
 - [[erozija]]
