@@ -10,7 +10,7 @@
 - vulkanski izbruhi
 - gubanje
 # Zunanje (Eksogene)
-- izvor v **notranjosti** zemlje
+- izvor v **zunanjosti** zemlje
 * površje **uravnavajo** -> **[[Peneplen|peneplen]]** (idealna ravnina)
 ## Sile 
 - gravitacijska sila
