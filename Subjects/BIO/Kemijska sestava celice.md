@@ -26,3 +26,5 @@ Glavni [[keinjski element|element]] je **$C$, so ogljikovodiki**.
 \> 1%/celico
  -  **C, H, N, O, P, S, Na, Ca, Cl, Mg, K**
 ## Mikroelementi
+< 1%/celico
+- **Fe, Zn, I** $\leftarrow$ zelo pomembni
