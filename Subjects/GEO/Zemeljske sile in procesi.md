@@ -18,6 +18,6 @@
 - delovanje Sonca (sevanje)
 ## Procesi
 - [[Akumulacija]]
-- [[erozija]]
+- [[Erozija]]
 - [[preperevanje kamnin|preperevanje]]
 - [[denudacija]]

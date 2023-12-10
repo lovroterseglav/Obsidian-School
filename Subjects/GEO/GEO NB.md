@@ -36,7 +36,7 @@
 - [[Kamninski krog]]
 ## Zunanje sile
 - [[Akumulacija]]
-- [[erozija]]
+- [[Erozija]]
 - [[Preperevanje Kamnin]]
 - [[Denudacija]]
 ## Preoblikovalni procesi
@@ -44,3 +44,4 @@
 - privlačna sila **sonca** in **lune**
 - enegrija (delovanje) **sonca**
 # Reliefi
+- [[]]

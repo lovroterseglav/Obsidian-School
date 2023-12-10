@@ -1,0 +1,1 @@
+Odnašanje materiala.
