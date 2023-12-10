@@ -26,3 +26,11 @@
 ![[kanjon]]
 ![[brzice]]
 ![[slap]]
+# Srednji tok
+- manjši naklon
+- da **ohrani tok** začne **vijugati**
+	- [[vijuga ali mendra]]
+	- vpliv centrifugalne sile $\rightarrow$ voda se vrtinči
+- hitrost ni enaka povsod 
+	- nahitrejša [[stržen]]
+	- 

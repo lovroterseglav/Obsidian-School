@@ -1,0 +1,1 @@
+Ti je hitrost vode najhitreša v [[Rečni relief#Srednji tok]].
