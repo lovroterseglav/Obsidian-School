@@ -1,2 +1,2 @@
 Pod plastjo **nesprijetih vodoprepustnih** kamnin je plast **vodoneprepustnih** kamnin, voda se ostane na vodoneprepustnih kaminah, zgornja plast vodoprepustnih kamin začne **polzeti**.
-![[Untitled Diagram 1.svg]]
+![[zemeljski_plaz.svg]]

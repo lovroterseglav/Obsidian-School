@@ -2,8 +2,10 @@
 - sodelujeta **voda**+**gravitacija**
 - premikanje odvisno od **naklona**
 - preperina se nabira **pod pobočjem** ([[grušč]])
-- [[podor]]
+- [[Podor]]
 - negativne posledice
 	- **drsenje tal** $\rightarrow$ drevesa ukrivijo obliko, raqzpokane ceste
 	- to lhko rešimo z **škarpo**
-- [[zemeljski plaz]]
+- [[Zemeljski plaz]]
+- [[Usad]]
+- [[Soliflukcija]]

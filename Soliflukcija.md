@@ -1,0 +1,1 @@
+Počasno drsenje tal na območju [[premafrost|permafrosta]].

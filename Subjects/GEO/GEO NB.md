@@ -36,7 +36,7 @@
 - [[Kamninski krog]]
 ## Zunanje sile
 - [[Akumulacija]]
-- [[Erozija]]
+- [[erozija]]
 - [[Preperevanje Kamnin]]
 - [[Denudacija]]
 ## Preoblikovalni procesi

@@ -17,7 +17,7 @@
 -                                                                                                                                                                                                                                                                                                 j8 sila Sonca, Lune
 - delovanje Sonca (sevanje)
 ## Procesi
-- [[akumulacija]]
+- [[Akumulacija]]
 - [[erozija]]
 - [[preperevanje kamnin|preperevanje]]
 - [[denudacija]]

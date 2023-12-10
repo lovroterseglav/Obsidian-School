@@ -1,0 +1,4 @@
+- v [[gričevje|gričevjih]]: [[Obpanonske pokrajine]], [[obsredozemske pokrajine]]
+- v Sloveniji iz [[lapor]], [[fliš]]
+- manjši kot plazovi
+- veliko škode v **kmetijstvu**
