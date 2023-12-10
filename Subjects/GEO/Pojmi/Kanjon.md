@@ -1,0 +1,3 @@
+- goloboka dolina
+- velike dimenzije
+- navpične/stopnjevite stene

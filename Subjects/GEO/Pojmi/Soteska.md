@@ -1,0 +1,3 @@
+- ozka
+- globoka
+- V oblika

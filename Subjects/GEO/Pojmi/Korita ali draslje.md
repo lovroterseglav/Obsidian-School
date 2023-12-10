@@ -1,0 +1,2 @@
+- reka z [[Erozija#Globinska|golbinsko erozijo]] vrta v živo skalo
+- voda se vrtinči v nasprotni smeri vodnega toka, poglablja strugo

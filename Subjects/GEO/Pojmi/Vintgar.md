@@ -1,0 +1,2 @@
+- pobočja enako širkoa na dnu in vrhu
+- navpična pobočja

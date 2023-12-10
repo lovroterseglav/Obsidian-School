@@ -16,4 +16,13 @@
 - odlaganje materialov (najprej najtežji)
 
 # Zgornji tok
-- **največji naklon** - velika nm
+- **največji naklon** - velika moč v strugah
+## Procesi
+![[Erozija#Globinska]]
+## Releifne oblike
+![[soteska]]
+![[vintgar]]
+![[Korita ali draslje]]
+![[kanjon]]
+![[brzice]]
+![[slap]]
