@@ -1,0 +1,4 @@
+- mahovi
+- lišaji
+- [[Permafrost]]
+- 60°-70° severne/južne [[geografska širina|g. š.]]
