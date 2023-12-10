@@ -36,6 +36,6 @@ Razdeljena na 3 sloje, ki se med seboj ločijo po:
 - [[#Plašč|srednji del plašča]]
 - gost
 - tekoče agregatno stanje (**l**)
-- po njem se [[Litosfreske plošče|litosferske plošče]]
+- po njem se premikajo [[Litosfreske plošče|litosferske plošče]]
 ## Plast pod astenosfero
 - [[#Plašč|spodnji del plašča]]+[[#Jedro (NIFE)|jedro]] 
