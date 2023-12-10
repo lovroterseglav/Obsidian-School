@@ -1,6 +1,6 @@
-Vedno na **nagnjenem pobočju**.
-- **razgaljanje**/**ploskovno odnašanje** kamnine
+**Razgaljanje**/**ploskovno odnašanje** kamnine na **nagnjenem pobočju**.
 - sodelujeta **voda**+**gravitacija**
 - premikanje odvisno od **naklona**
 - preperina se nabira **pod pobočjem** ([[grušč]])
-- [[Podor]]
+- [[podor]]
+- 
