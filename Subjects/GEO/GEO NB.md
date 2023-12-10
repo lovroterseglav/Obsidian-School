@@ -33,3 +33,13 @@
 [[Geološki razvoj Zemlje]]
 # Kamnine
 - [[Kamnine]]
+- [[Kamninski krog]]
+## Zunanje sile
+- [[Akumulacija]]
+- [[Erozija]]
+- [[Preperevanje Kamnin]]
+- [[Denudacija]]
+## Preoblikovalni procesi
+- [[gravitacija]]
+- privlačna sila **sonca** in **lune**
+- enegrija (delovanje) **sonca**
