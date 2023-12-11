@@ -1,8 +1,8 @@
 Gostota posledično hitrost [[Lava|lave]]:
 - **Vulkanski stožci** - gosta, počasna
 - **Pokrov iz lave** - redka, hitra
-
-Ko [[magma]] pride na območa [[Globokomorski jarek|globokomorskih jarkov]]:
+Kje se dogaja
+- Ko [[magma]] pride na območa [[Globokomorski jarek|globokomorskih jarkov]]:
 - [[Subdukcija]]
 - [[Vroča točka]]
 - [[Srednjeoceanski hrbet]] $\rightarrow$ [[Litosfreske plošče#Razminakje]]

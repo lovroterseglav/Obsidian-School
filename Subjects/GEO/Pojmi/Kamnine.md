@@ -27,7 +27,7 @@ primer: granit (Pohorje), [[tuf]] (**Goričko** $\rightarrow$ Grad, **Smrekovec*
 ## Sedimentne
 - [[Sedimentiranje]]
 ### NEsprijete mehanske
-kamenčki padjo iz razpoke v gori $\rightarrow$ nastane melišče (ostri robovi [[grušč]]) $\rightarrow$ [[grušč]] brusi reka $\rightarrow$ [[prod]] $\rightarrow$ +reka $\rightarrow$ [[pesek]] $\rightarrow$ +reka $\rightarrow$ [[glina]]
+kamenčki padjo iz razpoke v gori $\rightarrow$ nastane melišče (ostri robovi [[grušč]]) $\rightarrow$ [[grušč]] brusi reka $\rightarrow$ [[prod]] $\rightarrow$ [[pesek]] $\rightarrow$ [[glina]]
 ![[sedimanti-nastanek-slika.svg]]
 ### Sprijete mehanske
 - [[breča]] - [[grušč]] z [[pesek|peskom]]
