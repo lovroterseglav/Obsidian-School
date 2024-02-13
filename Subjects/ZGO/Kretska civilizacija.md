@@ -8,3 +8,7 @@
 - **čaščenje bikov**
 - **tloris palače kot labirint**
 - **kačja boginja**
+### Propad
+- **izbruh vulkana na otoku Tera**
+- **tsunami**
+- **vdor Ahajcev**
