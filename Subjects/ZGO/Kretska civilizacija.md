@@ -1,0 +1,10 @@
+- **Minojska** (kralj Minos)
+- Kreto naselijo **3000 BC**
+- iz **Male Azije**
+- sprva poljedelstovo in živinoreja
+- potem vinogradništvo in oljkarstvo
+- gojilo **oljke**
+- **linearna A pisava (nerazvozlana)**
+- **čaščenje bikov**
+- **tloris palače kot labirint**
+- **kačja boginja**
