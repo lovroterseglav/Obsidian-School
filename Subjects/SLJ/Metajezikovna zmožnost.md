@@ -1,0 +1,1 @@
+Zmožnost jezika , da se o njem pogovarjamo z njim.
