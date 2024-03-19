@@ -25,4 +25,8 @@ Zasebni pogovori z ljudmi iste pokrajine tudi v umetnostnih besedilih.
 ## Žargonske
 - pripadnost istemu poklicu/interesu
 # Funkcijsko zaznamovane besede
-- **praktično sporazumavalne**
+- **praktično sporazumavalne**: mrož, Arhica
+- **uradovalne**: storinirati predračun
+- **strokovne/termini**: zemljepisna širina
+- **publicistične/publicizmi** (kot javni govorec): prižgati zeleno luč
+Raba v ustreznij
