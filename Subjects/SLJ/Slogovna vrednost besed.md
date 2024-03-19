@@ -23,3 +23,6 @@ Zasebni pogovori z ljudmi iste pokrajine tudi v umetnostnih besedilih.
 - pripadnost starostni skupini
 - kul, dbest, bed
 ## Žargonske
+- pripadnost istemu poklicu/interesu
+# Funkcijsko zaznamovane besede
+- **praktično sporazumavalne**
