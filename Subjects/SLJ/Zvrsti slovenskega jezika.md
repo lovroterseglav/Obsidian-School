@@ -1,1 +1,1 @@
-![[Subjects/SLJ/Untitled Diagram.svg]]
+![[zvrsti_slo_jezika.svg]]
