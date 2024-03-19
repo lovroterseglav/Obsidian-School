@@ -1,0 +1,1 @@
+![[Subjects/SLJ/Untitled Diagram.svg]]

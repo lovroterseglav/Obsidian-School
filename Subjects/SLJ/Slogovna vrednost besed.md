@@ -29,4 +29,7 @@ Zasebni pogovori z ljudmi iste pokrajine tudi v umetnostnih besedilih.
 - **uradovalne**: storinirati predračun
 - **strokovne/termini**: zemljepisna širina
 - **publicistične/publicizmi** (kot javni govorec): prižgati zeleno luč
-Raba v ustreznij
+Raba v ustreznih besedilih in okoliščinah.
+# Časovno zaznamovane
+- **novejše/neologizmi**: všečkat, blogat
+- **starinske, zastarele/arhaizmi**: helebarda, ponečediti
