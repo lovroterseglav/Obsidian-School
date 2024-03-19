@@ -1,1 +1,1 @@
-![[kniznji_jezik.excalidraw.svg]]
+![[Subjects/SLJ/Untitled Diagram.svg]]
