@@ -13,4 +13,3 @@ Metaforični prenos pomena (podobnost):
 Besede, ki podobno zvenijo (trenerka, trenirka)
 # Enakozvočnice/homonimi
 Besede z enakim zapisom a razližnim pomenom (prst, kos)
-# Slogovno nezaznamovane
