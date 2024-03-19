@@ -1,1 +1,1 @@
-![[kniznji_jezik.excalidraw]]
+![[kniznji_jezik.excalidraw.svg]]
