@@ -22,4 +22,14 @@
 	- **vzhodno** (štajersko)
 	- **zahodno** (primorsko)
 # Prostorske zvrsti
-Govor
+Govorijo se samo na delih slovenskega ozemlja.
+## Narečja/dialekti
+- govorijo se na manjših zemljepishin enotah
+- okorog 50
+- **zemljepisni** in **zgodovinski** dejavniki so vplivali na narečno perstrost
+- **raba**: 
+	- na podeželju
+	- med znanci/domačini
+	- neuradno pogovarjanje/dopisovanje
+- redko za javno nastopanje (ljudske pesmi, umetnostna besedila)
+- **lo**
