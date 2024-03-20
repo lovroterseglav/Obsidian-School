@@ -11,4 +11,9 @@
 	- deklamacije
 	- recitacije
 	- pripravljeni govorni nastopi
-- pravila v jezikovnih priročnik
+- pravila v jezikovnih priročnikih
+## Knjižni pogovorni jezik
+- nakoliko bolj sproščena različica
+- pogovor med ljudmi iz drugih delov Slovenije
+- pogovori pred javnostjo
+- izpuščanje neneaglašenega 
