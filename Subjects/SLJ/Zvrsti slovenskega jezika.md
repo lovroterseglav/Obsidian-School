@@ -16,4 +16,10 @@
 - nakoliko bolj sproščena različica
 - pogovor med ljudmi iz drugih delov Slovenije
 - pogovori pred javnostjo
-- izpuščanje neneaglašenega 
+- izpuščanje neneaglašenega
+-  delno pokrajinsko obarvan
+	- **osrednje** (dolensko, gorensko)
+	- **vzhodno** (štajersko)
+	- **zahodno** (primorsko)
+# Prostorske zvrsti
+Govor
