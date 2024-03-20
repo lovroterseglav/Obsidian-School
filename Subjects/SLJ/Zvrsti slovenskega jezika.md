@@ -32,4 +32,9 @@ Govorijo se samo na delih slovenskega ozemlja.
 	- med znanci/domačini
 	- neuradno pogovarjanje/dopisovanje
 - redko za javno nastopanje (ljudske pesmi, umetnostna besedila)
-- **lo**
+- **ločijo se po**:
+	- glasovih
+	- mestu nagalasa
+	- besedah in njihovih oblikah
+	- spreminjanju spola
+	- števila
