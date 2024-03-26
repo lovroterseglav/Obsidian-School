@@ -21,3 +21,17 @@ le **po** ta
 u **či** telj
 od lo **či** tev
 # Naglas
+Samostalniki so v besedi naglašeni/nenaglašeni.
+Naglašene izgovarjamo **močneje**, nenaglašene pa tišje in manj izrazito.
+Naglasno mesto je **prosto**
+**Večina** besed ima **en naglas**, izjema so sestavljenke, zloženke, sklopi.
+**Naslonke**/brezglasnice so besede brez naglasa, **izgovarjamo** jih **skupaj z besedo**, ki jim sledi.
+- pomožni glagoli (sem, bom ...)
+- vezniki (in, ali ...)
+- predlogi (s, z ...)
+- naslonske oblike zaimkov (jo, mi, mu ...)
+# Naglasna znamenja
+| ime      | simbol |                                  | primeri                   |
+| -------- | ------ | -------------------------------- | ------------------------- |
+| ostrivec | **´**  | dolg samoglasnik (e, o **ozek**) | plézalec, délati, daritév |
+| krativec | **\`** |                                  |                           |
