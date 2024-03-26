@@ -4,3 +4,7 @@ Preučuje jih glasoslovje/fonemologija.
 	- 20 soglasnikov/konzonatov (21 dž pojavi le pri privzetih besedah)
 ![[glasovi_slo_knji_j.svg]]
 # Samoglasniki
+Vseh samoglasnikov je 8, črk pa 5.
+![[samoglasniki_slo_knji_j.svg]]
+## Črka e:
+
