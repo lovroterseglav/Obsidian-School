@@ -38,3 +38,23 @@ Govorijo se samo na delih slovenskega ozemlja.
 	- besedah in njihovih oblikah
 	- spreminjanju spola
 	- števila
+![[Narečne skupine Slovenije]]
+## Pokrajinski pogovorni jezik
+Govori se v večjih zemljepisnih enotah (večjih središčiha ali ob njih):
+- **osrednjeslovenski** (ljubljanski)
+- **južnoštajerski** (celjski)
+- **severnoštajerski** (mariborski)
+- **gorenjski**, **koroški**, **prekmurski** ...
+Je vsakdanji neuradni pogovorni in dopisni jezik za ljudi iste pokrajine.
+Ni primeren za javno nastopanje.
+# Interesne zvrsti
+## Sleng
+- jezik ljudi iste generacje (najstniki)
+- veliko neslovenskih besed
+- hitro spreminja
+- čustveno zaznamovane besede, tudi grobe
+- delno pokrajinsko obarvan
+## Žargon
+Jezik ljudi v istem **poklicu**/**hobiju**.
+## Argo
+Jezik skrivnih **družb**/zaprtih skupi
