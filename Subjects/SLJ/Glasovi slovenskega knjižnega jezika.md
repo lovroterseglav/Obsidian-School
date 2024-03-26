@@ -70,5 +70,5 @@ Poznamo 6 zvočnikov. Pogovor prilagodijo okolju.
 Nezvočniki se v soglasniških sklopih prilagajajo drug drugemu.
 - 1. nezveneč, 2. zveneč → oba zveneča
 - 1. zveneč, 2.nezveneč → oba nezveneča
-# Predlogi
-![[Predlog]]
+## Predlog
+![[Predlog|Predlogi]]
