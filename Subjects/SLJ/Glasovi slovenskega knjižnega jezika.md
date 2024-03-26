@@ -14,3 +14,10 @@ Vseh samoglasnikov je 8, črk pa 5.
 ## Črka o:
 - **široki ô**: svetlôba
 - **ozki ó**: pólje
+# Zlog
+samoglasniki $\rightarrow$ nosilci zlogov, okoli zbrani soglasniki
+Poudarjene zloge izgovorimo močneje, saj so v njih samoglasniki naglašeni
+le **po** ta
+u **či** telj
+od lo **či** tev
+# Naglas
