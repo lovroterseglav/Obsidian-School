@@ -10,4 +10,7 @@ Vseh samoglasnikov je 8, črk pa 5.
 - **široki ê**: vêdro
 - **ozki é**: pésem
 - **polglasnik ə**: pəs
-	- polglasnik pred črko -r ne zapisujemo, razen na komcu besed (vrtec \[vtec])
+	- polglasnik pred črko -r ne zapisujemo, razen na komcu besed (vrtec \[vŕtec])
+## Črka o:
+- **široki ô**: svetlôba
+- **ozki ó**: pólje
