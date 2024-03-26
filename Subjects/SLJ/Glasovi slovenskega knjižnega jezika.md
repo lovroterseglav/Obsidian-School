@@ -7,4 +7,7 @@ Preučuje jih glasoslovje/fonemologija.
 Vseh samoglasnikov je 8, črk pa 5.
 ![[samoglasniki_slo_knji_j.svg]]
 ## Črka e:
-
+- **široki ê**: vêdro
+- **ozki é**: pésem
+- **polglasnik ə**: pəs
+	- polglasnik pred črko -r ne zapisujemo, razen na komcu besed (vrtec \[vtec])
