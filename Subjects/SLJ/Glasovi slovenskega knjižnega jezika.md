@@ -47,4 +47,9 @@ Poznamo 6 zvočnikov. Pogovor prilagodijo okolju.
 ## Zvočnik v:
 ## \[v]
 - kadar stoji pred samoglasnikom iste besede
-- 
+## \[ṷ]
+- za samoglasnikom in pred soglasnikom (*sg*.\[v]*so*.) sivka \[siṷka]
+- uporabimo v **predlogih** v omari \[ṷ omari]
+- stoji na koncu besede siv \[siṷ]
+## \[w]
+- kadar stoji pred 
