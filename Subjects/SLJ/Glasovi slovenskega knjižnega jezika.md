@@ -63,3 +63,6 @@ Poznamo 6 zvočnikov. Pogovor prilagodijo okolju.
 ### \[ṷ]
 - navadno na koncu besede brusil \[brusiṷ]
 - za samoglasnikom in pred soglasnikom rilcu \[riṷcu]
+# Nezvočniki
+**Zveneči**: b d g z ž (Gad Zbeži)
+**Nezveneči**: p t k s š c č f h (Ta suhi škafec pušča)
