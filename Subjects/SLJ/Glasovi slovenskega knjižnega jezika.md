@@ -37,7 +37,12 @@ Naglasno mesto je **prosto**
 | ostrivec | **´**  | **dolg** samoglasnik (e, o **ozek**) | plézalec, délati, daritév |
 | strešica | **^**  | **dolg, širok** izgovor e, o         | prêdemet, svêtloba        |
 Samoglasniki se **ločijo** po **dolžini trajanja** (dolgi/kratki)
+|     |     |
+| --- | --- |
+| a   |     |
+|     |     |
+
 - nenaglašeni - vedno kratki
 - naglašeni - dolgi/kratki
 - polglasnik - ni dolg
-- ozki e, o
+- ozki e, o - ni kratek
