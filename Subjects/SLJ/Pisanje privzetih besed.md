@@ -15,4 +15,4 @@ Podomačen zapis celin, držav, pokrajin, rek, otokov ter krajev, ki so povezani
 Prevajamo večbesedna zemljepisna imena (ZDA).
 ## Stvarna lastna imena
 Tuji zapis imen podjetij, časopisov, revij (Apple).
-Prevajamo naslove knjih, filmov, slik, revij.
+Prevajamo naslove knjih, filmov, slik, revij (Gospodar prstanov).
