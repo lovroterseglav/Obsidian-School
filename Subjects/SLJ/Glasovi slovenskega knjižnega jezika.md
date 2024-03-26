@@ -33,6 +33,11 @@ Naglasno mesto je **prosto**
 # Naglasna znamenja
 | ime      | simbol |                                      | primeri                   |
 | -------- | ------ | ------------------------------------ | ------------------------- |
-| ostrivec | **´**  | **dolg** samoglasnik (e, o **ozek**) | plézalec, délati, daritév |
 | krativec | **\`** | **kratek** samoglasnik               | prepàd, kmèt, pès         |
+| ostrivec | **´**  | **dolg** samoglasnik (e, o **ozek**) | plézalec, délati, daritév |
 | strešica | **^**  | **dolg, širok** izgovor e, o         | prêdemet, svêtloba        |
+Samoglasniki se **ločijo** po **dolžini trajanja** (dolgi/kratki)
+- nenaglašeni - vedno kratki
+- naglašeni - dolgi/kratki
+- polglasnik - ni dolg
+- ozki e, o
