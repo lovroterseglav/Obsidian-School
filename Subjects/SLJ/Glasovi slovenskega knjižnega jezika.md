@@ -66,3 +66,9 @@ Poznamo 6 zvočnikov. Pogovor prilagodijo okolju.
 # Nezvočniki
 **Zveneči**: b d g z ž (Gad Zbeži)
 **Nezveneči**: p t k s š c č f h (Ta suhi škafec pušča)
+## Premena po zvenečnosti/asimilaciji
+Nezvočniki se v soglasniških sklopih prilagajajo drug drugemu.
+- 1. nezveneč, 2. zveneč → oba zveneča
+- 1. zveneč, 2.nezveneč → oba nezveneča
+# Predlogi
+![[Predlog]]

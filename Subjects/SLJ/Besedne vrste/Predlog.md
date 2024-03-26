@@ -5,8 +5,8 @@ Predlog je #besedna-vrsta
 
 **z pri ostalih**
 > [!example]-
-> s ==P==iko
-> s ==h==išnikom
+> s **M**arcelom
+> s **h**išnikom
 > 
 > z **a**tom
 > z **u**ro
@@ -14,11 +14,11 @@ Predlog je #besedna-vrsta
 # k/h
 ##### ==h + k,g==
 > [!example]-
-> h ==k==lemenu, h ==g==ospe
+> h **K**lemenu, h **g**ospe
 
 ##### **k ostalo**
 > [!example]+
-> k **P**iki
+> k **N**ejcu
 
 # vi - iz | na - s/z
 > [!example]-
