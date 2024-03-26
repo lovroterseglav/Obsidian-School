@@ -48,6 +48,7 @@ Govori se v večjih zemljepisnih enotah (večjih središčiha ali ob njih):
 Je vsakdanji neuradni pogovorni in dopisni jezik za ljudi iste pokrajine.
 Ni primeren za javno nastopanje.
 # Interesne zvrsti
+Jezik ljudi s skupnimi interesi.
 ## Sleng
 - jezik ljudi iste generacje (najstniki)
 - veliko neslovenskih besed
@@ -57,4 +58,4 @@ Ni primeren za javno nastopanje.
 ## Žargon
 Jezik ljudi v istem **poklicu**/**hobiju**.
 ## Argo
-Jezik skrivnih **družb**/zaprtih skupi
+Jezik skrivnih **družb**/**zaprtih skupin**.
