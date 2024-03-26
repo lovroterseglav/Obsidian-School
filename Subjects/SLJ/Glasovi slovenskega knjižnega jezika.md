@@ -45,3 +45,6 @@ Jih ne zapisujem razen pri besedah, ki se ločujejo le pri mestu naglasa/pesniš
 # Zvočniki
 Poznamo 6 zvočnikov. Pogovor prilagodijo okolju.
 ## Zvočnik v:
+## \[v]
+- kadar stoji pred samoglasnikom iste besede
+- 
