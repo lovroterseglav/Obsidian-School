@@ -6,4 +6,7 @@
 - ***tema***: glavan tema besedila
 - ***jezik***: besedni/nebesedni
 - ***prenosnik***: vidni/slušni
-# Eno
+# Enosmerno sporazumevanje
+**Ne pričakuje odgovora.** To so TV, knjige, radio
+# Dvosmerno sporazumevanje
+Vlogi sporočevalca in naslovnika se **izmenjujeta**.
