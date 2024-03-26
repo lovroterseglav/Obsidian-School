@@ -44,12 +44,22 @@ Polglasnike zapisane s črko **e**, izgovarjamo **kratko** (dèž, vès), tiste 
 Jih ne zapisujem razen pri besedah, ki se ločujejo le pri mestu naglasa/pesniških besedilih.
 # Zvočniki
 Poznamo 6 zvočnikov. Pogovor prilagodijo okolju.
-## Zvočnik v:
-## \[v]
+## Zvočnik V
+### \[v]
 - kadar stoji pred samoglasnikom iste besede
-## \[ṷ]
+### \[ṷ]
 - za samoglasnikom in pred soglasnikom (*sg*.\[v]*so*.) sivka \[siṷka]
 - uporabimo v **predlogih** v omari \[ṷ omari]
 - stoji na koncu besede siv \[siṷ]
-## \[w]
-- kadar stoji pred 
+### \[w]
+- kadar stoji pred zvenečim soglasnikom v vlak \[wlak]
+- na koncu besede za zvočnikom brv \[brw]
+### \[ʍ]
+- pred nezvenečim soglasnikom visok \[ʍisok]
+## Zvočnik L
+### \[l]
+- pred samoglasnikom logoped \[logoped]
+- lahko na koncu besede del \[del]
+### \[ṷ]
+- navadno na koncu besede brusil \[brusiṷ]
+- za samoglasnikom in pred soglasnikom rilcu \[riṷcu]
