@@ -72,3 +72,4 @@ Nezvočniki se v soglasniških sklopih prilagajajo drug drugemu.
 - 1. zveneč, 2.nezveneč → oba nezveneča
 ## Predlog
 ![[Predlog|Predlogi]]
+zapisujemo jih kakor jih izgovarjamo pred samoglasniki.

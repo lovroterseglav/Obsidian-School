@@ -1,7 +1,7 @@
 **Predlogi izražajo prostorska** in **časovna razmerja**. *(ob omari, ob osmih)*
 Predlog je #besedna-vrsta 
 # s/z
-==T==a ==s==u==h==i ==šk==a==f==e==c== ==p==u==šč==a *(odstrani a,e,i,o,u)*  ==+s==
+==+s== → ==T==a ==s==u==h==i ==šk==a==f==e==c== ==p==u==šč==a *(odstrani a,e,i,o,u)*  
 
 **z pri ostalih**
 > [!example]-
@@ -12,7 +12,7 @@ Predlog je #besedna-vrsta
 > z **u**ro
 
 # k/h
-##### ==h + k,g==
+##### ==h → k,g==
 > [!example]-
 > h **K**lemenu, h **g**ospe
 
