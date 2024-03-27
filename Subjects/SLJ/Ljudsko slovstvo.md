@@ -18,4 +18,4 @@ Značilnosti ljudskega sloga
 Zgodba, ke se je **razvila iz bajke** in pripoveduje o **čudežnih dogodkih**.
 Pogonski **bogovi** in domači **junaki**.
 Delitev
-- ***zgodovinska pripovedka*** opisuje resnično zgodovinsko osebo, ke je dobila čudežne poteze, poteze, ko je spominj nanjo že obledel
+- ***zgodovinska pripovedka*** opisuje resnično zgodovinsko osebo, ke je dobila čudežne poteze, poteze, ko je spominj nanjo že obledel 
