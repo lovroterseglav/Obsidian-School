@@ -23,3 +23,31 @@ Pogonski **bogovi** in domači **junaki**.
 - ***junaške pripovedke*** govorijo o *junaku*, ki je *plod domišlije* (Peter Klepec)
 - ***živalske in rastlinske pripovedke*** izmišljene zgodbe o živalih in rastlinah, so *personifikacirane*, imajo stalne značilnosti (zvita lisica, lev je kralj ...)
 ## Basen
+Didaktična (poučna) književna vrsta.
+Poosebljene živali s človeškimi lastnostmi.
+Moralni nauk (pregovor).
+Ozvira iz **Orienta**.
+Razcvet v 18. stoletju → razsvetljenstvo.
+## Legenda
+- ***staro poimenovanje*** odlomki iz življenja mučencev in svetnikov
+- ***novo poimenovanje*** krščanska bajka
+- **proza**
+- podobna mitu in pripovedki
+- delimo na 
+	- ljudske
+	- umetne
+# Ljudsko pesništvo
+Preučuje ga etnomuzikologija.
+Ponarodele pesmi (ljudje vzeli pesmi za svojue, avtor pozabljen)
+## Lirsko pesništvo
+- ljubezenske pesmi
+	- dekliške
+	- fantovske
+- soldaške (vojaške)
+- kmečke in druge stanovske pesmi
+- pivske pesmi
+- šaljive pesmi
+- obredne pesmi (kresovanje, koledarne)
+- družinske (o usodah družine)
+## Epsko pesništvo
+Drugačno od emskega pesništva drugih narodov → ni velikih jinaških bo
