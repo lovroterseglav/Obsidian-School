@@ -63,7 +63,7 @@ Poznamo 6 zvočnikov. Pogovor prilagodijo okolju.
 - lahko na koncu besede del \[del]
 ### \[ṷ]
 - navadno na koncu besede brusil \[brusiṷ]
-- za samoglasnikom in pred soglasnikom rilcu \[riṷcu]
+- za samoglasnikom in pred soglasnikom (*sg*.\[ṷ]*so*.) rilcu \[riṷcu]
 # Nezvočniki
 **Zveneči**: b d g z ž (Gad Zbeži)
 **Nezveneči**: p t k s š c č f h (Ta suhi škafec pušča)
