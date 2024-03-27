@@ -76,4 +76,14 @@ izhaja iz **Provanse**. Sprva lirska pesem, kasneje pridobi pripovedni značaj.
 Izhaja iz **Španije**. Opeva junaška dela vitezov, lepoto njihovih žena, življenje na gradu.
 Danes pomeni lirsko-epsko pesnitev s pomirljivim koncem
 - **ljudska** in **umetna** (Prešeren)
-# Zapisovalci 
+# Zapisovalci ljudskega slovstva
+## 19. stoletje
+- Valentim Vodnik
+- Andrej Smole
+- Stanko Vraz
+- Emil Korytko
+- Matija Valjavec
+- Karel Štrekelj
+## 20. stoletje
+- Jože Golnar
+- Milko Matičetov
