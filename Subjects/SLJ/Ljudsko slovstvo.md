@@ -76,3 +76,4 @@ izhaja iz **Provanse**. Sprva lirska pesem, kasneje pridobi pripovedni značaj.
 Izhaja iz **Španije**. Opeva junaška dela vitezov, lepoto njihovih žena, življenje na gradu.
 Danes pomeni lirsko-epsko pesnitev s pomirljivim koncem
 - **ljudska** in **umetna** (Prešeren)
+# Zapisovalci 
