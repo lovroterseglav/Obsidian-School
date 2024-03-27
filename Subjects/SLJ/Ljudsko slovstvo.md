@@ -42,7 +42,7 @@ Ponarodele pesmi (ljudje vzeli pesmi za svojue, avtor pozabljen)
 ## Lirsko pesništvo
 - ljubezenske pesmi
 	- dekliške
-	- fantovske
+	- fantovske (več)
 - soldaške (vojaške)
 - kmečke in druge stanovske pesmi
 - pivske pesmi
@@ -50,4 +50,29 @@ Ponarodele pesmi (ljudje vzeli pesmi za svojue, avtor pozabljen)
 - obredne pesmi (kresovanje, koledarne)
 - družinske (o usodah družine)
 ## Epsko pesništvo
-Drugačno od emskega pesništva drugih narodov → ni velikih jinaških bo
+Drugačno od emskega pesništva drugih narodov → ni velikih jinaških bojev
+opeva 
+- nenavadne dogodke življenja
+- življenje na gradu
+- zgodovinska dejanja
+- boj za celjsko dediščino
+- boji s Turki
+- zatiranje Kartažanov
+- sirote
+- desetnice
+- ...
+Motivi so včasih isti kot v pripovedkah (Pegam in Lambergar, Kraj Matjaž ...)
+Vse pesmi **niso** slovenskega izvora
+Najpomembnejši vrsti: **balada** in **romanca**
+## Balada
+izhaja iz **Provanse**. Sprva lirska pesem, kasneje pridobi pripovedni značaj.
+- v ospredju 1 dogodek
+- dogajanje razgibano, dramatično $\triangle$
+- konec je tragičen
+### Delitev
+- **ženske balde** vsoda žensk, otožnost, čustvenost (romantične poezije)
+- **moške balade** manj liričnih prvin, nasilje, očetomor
+## Romanca
+Izhaja iz **Španije**. Opeva junaška dela vitezov, lepoto njihovih žena, življenje na gradu.
+Danes pomeni lirsko-epsko pesnitev s pomirljivim koncem
+- **ljudska** in **umetna** (Prešeren)
