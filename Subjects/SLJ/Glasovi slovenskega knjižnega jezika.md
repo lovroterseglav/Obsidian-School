@@ -31,10 +31,11 @@ Naglasno mesto je **prosto**
 - predlogi (s, z ...)
 - naslonske oblike zaimkov (jo, mi, mu ...)
 # Naglasna znamenja
-| ime      | simbol |                                                                         | primeri                   |
-| -------- | ------ | -------------------------------------------------------------- | ------------------------- |
-| krativec | **\`** | **kratek** samoglasn                                                    | prepàd, kmèt, pès         |
-| ostrivec | **´**  | **dolg** samoglasnik (e, o **širok* ),  ko  ec  be  ed  enozl   žnice   | plézalec, dél  **dolg, širok** samo e, o                                                                                  | prêdemet, svêtloba        |
+| ime      | simbol |                                       | primeri            |
+| -------- | ------ | ------------------------------------- | ------------------ |
+| krativec | **\`** | **kratek** samoglasn                  | prepàd, kmèt, pès  |
+| ostrivec | **´**  | **dolg** samoglasnik (e, o **širok**) | plézalec, dél      |
+| strešica | **^**  | **dolg, širok** izgovor e, o          | prêdemet, svêtloba |
 Samoglasniki se **ločijo** po **dolžini trajanja** (dolgi/kratki)
 - nenaglašeni - vedno kratki
 - naglašeni - dolgi/kratki
