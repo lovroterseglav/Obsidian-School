@@ -8,4 +8,6 @@ Imeli podobno strukturo.
 - ***kozmogonski miti*** opisujejo *nastanek sveta*
 - ***esahološki miti*** govorijo o *koncu sveta*
 ## Izvor mitov
-- ***migracijska teorija*** temeljni motivi so nastali na enem kraju, nato pa se ši
+- ***migracijska teorija*** temeljni motivi so nastali na enem kraju, nato pa se širili po svetu
+- ***kontaktna teorija*** motovi so se prenašali in prilagodili
+- ***antropološka teorija*** v podbnih okoliščinah nastanejo podobni miti
