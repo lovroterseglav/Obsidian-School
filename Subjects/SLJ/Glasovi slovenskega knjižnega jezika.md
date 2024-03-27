@@ -33,7 +33,7 @@ Naglasno mesto je **prosto**
 # Naglasna znamenja
 | ime      | simbol |                                      | primeri            |
 | -------- | ------ | ------------------------------------ | ------------------ |
-| krativec | **\`** | **kratek** samoglasn                 | prepàd, kmèt, pès  |
+| krativec | **\`** | **kratek** samoglasnik               | prepàd, kmèt, pès  |
 | ostrivec | **´**  | **dolg** samoglasnik (e, o **ozki**) | plezálec, dél      |
 | strešica | **^**  | **dolg, širok** e, o                 | prêdemet, svetlôba |
 Samoglasniki se **ločijo** po **dolžini trajanja** (dolgi/kratki)
@@ -49,7 +49,7 @@ Poznamo 6 zvočnikov. Pogovor prilagodijo okolju.
 ### \[v]
 - kadar stoji pred samoglasnikom iste besede
 ### \[ṷ]
-- za samoglasnikom in pred soglasnikom (*sg*.\[v]*so*.) sivka \[siṷka]
+- za samoglasnikom in pred soglasnikom (*sg*.\[ṷ]*so*.) sivka \[siṷka]
 - uporabimo v **predlogih** v omari \[ṷ omari]
 - stoji na koncu besede siv \[siṷ]
 ### \[w]
