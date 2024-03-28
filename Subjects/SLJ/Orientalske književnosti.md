@@ -8,7 +8,23 @@
 6. **Perzijska** (7. stoletje BC)
 7. **Arabska** (6. stoletje)
 8. **Japonska** (8. stoletje)
-# Literarne vrste in zvrsti
-## Lirika
-- ljubezenske
-- ver
+# Religije in filozofski sistemi
+| Književnost   | Relijija, verski/filozofski sistem              | Verska besedila, svete knjige    |
+| ------------- | ----------------------------------------------- | -------------------------------- |
+| mezopotamska  | politeizem                                      | obredna besedila, himne, molitve |
+| egipčanska    | politeizem, elementi monoteizma (Ehnaton)       | *knjiga mrtvih*, himne, molitve  |
+| indijska      | vedska religija, budizem, behmanizem, hinduizem | *vede*                           |
+| kitajska      | konfucijanstvo, taoizem, budizem                | knjiga konfucijanostva           |
+| starojudovska | judovstvo (monoteizem) kot vera v Jahveja       | *stara zaveza*                   |
+| perzijska     | zaratustrovstvo (zoroastarizem), islam          | *Avest*                          |
+| arabska       | islam (monoteizem)                              | *koran*                          |
+| japonska      | sintoizem, budizem, zen budizma                 |                                  |
+# Razvoj pisave
+- slikovna pisava
+- slikovno-pojmovne pisave
+- klinpois
+- herieoglifična pisava najprej besedna, nato zlogovna
+- Kitajska: besedna (pismenke)
+- Japonci: zlogovna
+- Feničani (~1000 BC): glasovna → prevzamejo Indijci, hebrejci, Arabci
+- Grki dodajo črke za samoglasni

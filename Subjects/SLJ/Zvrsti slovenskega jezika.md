@@ -56,6 +56,6 @@ Jezik ljudi s skupnimi interesi.
 - čustveno zaznamovane besede, tudi grobe
 - delno pokrajinsko obarvan
 ## Žargon
-Jezik ljudi v istem **poklicu**/**hobiju**.
+Jezik ljudi v istem **poklicu**/**hobiju**.elementi mode
 ## Argo
 Jezik skrivnih **družb**/**zaprtih skupin**.
