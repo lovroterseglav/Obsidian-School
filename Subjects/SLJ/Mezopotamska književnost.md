@@ -18,4 +18,19 @@ Preplet zgodovinopisja, mitologije, filozofije, književnosti.
 Skrivnostno rojstvo, prerokba, dvoboj, junak, ljubezenska zavrnitev, dojestnost, bolezuen, vesoljni potop, zel življenja, kača, potovanje, smrt, žalovanje ...
 ### Teme
 Smrt, prijateljstvo, junaštvo, iskanje nesmrtnosti
-Glavna tema: kako premagati smrt in doseči v
+Glavna tema: **kako premagati smrt in doseči večno življenje**
+### Ideja
+mitološka podlaga: človek ne sme ogrožati kozmičnega reda, ne more postati emak bogovom
+# Ep
+Dologo epsko besedilo v (himničnih/slovesnih) verzih.
+Pripoveduje o prtektlih in mitičnih dogodkih, ki so pomembni za določeno skupnost.
+Povzdihuje za to skupnost pomembne vrednote (junaštvo ...) in povezanost z božanstvom, verovanjem, mitom (božanski izvor junakov ...)
+Povezanost mitologije z verovanjem.
+Stari in srednji vek, anto ga izpodrine roman.
+## Vrste
+- junaški
+- zgodovinski
+- mitološki
+- viteški
+- verski
+- živalski
