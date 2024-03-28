@@ -27,4 +27,5 @@
 - Kitajska: besedna (pismenke)
 - Japonci: zlogovna
 - Feničani (~1000 BC): glasovna → prevzamejo Indijci, hebrejci, Arabci
-- Grki dodajo črke za samoglasni
+- Grki dodajo črke za samoglasnike
+- grška pisava podlaga za nastanek latinice
